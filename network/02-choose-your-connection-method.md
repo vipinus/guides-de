@@ -18,7 +18,7 @@ Ein LeoTun-Konto bietet sechs Verbindungsarten: Privat (Tailscale), Cisco (AnyCo
 - Breitband, das oft abbricht, schwaches WLAN: Web-Proxy. Er arbeitet pro Anfrage ohne dauerhafte Verbindung; es gibt also folgerichtig keine Verbindung, die abbrechen könnte.
 - Breitband in älteren Wohnanlagen, mobile Daten, viele Paketverluste: Hiddify. Sein Protokoll ist darauf ausgelegt, Paketverluste zu verkraften, und liefert in solchen Netzen das beste Tempo.
 - Der Computer ist schon mit einem Firmen-VPN verbunden: Web-Proxy. Zwei VPNs für das ganze Gerät streiten sich um die Netzwerkeinstellungen; der Web-Proxy kümmert sich nur um den Browser, sodass sich beide nicht stören.
-- Breitband von China Mobile, Great Wall und anderen, oder grenzüberschreitende Verbindungen, die ständig instabil sind: jede Verbindungsart mit einem Einstiegspunkt in der Region China. Der Client verbindet sich nur mit einer Adresse innerhalb Chinas, den grenzüberschreitenden Teil übernehmen wir – Störungen auf der Auslandsstrecke betreffen Sie also nicht.
+- Breitband von China Mobile, Great Wall und anderen, oder grenzüberschreitende Verbindungen, die ständig instabil sind: jede Verbindungsart mit einem Einstiegspunkt in der Region China. In diesen Netzen ist das meist die stabilste Wahl.
 
 ## Nach Zweck: was Sie vorhaben
 

@@ -10,7 +10,7 @@ Mit demselben Dienst und demselben Protokoll kann sich das Tempo zwischen Region
 |---|---|---|
 | China Unicom im Norden | Japan, Südkorea | Die Auslandsanbindung von Unicom nach Japan und Südkorea ist meist die direkteste |
 | China Telecom im Süden | Südostasien (Singapur), Australien | Die Anbindung von Telecom Richtung Süden ist gut |
-| China Mobile, Great Wall Broadband und andere | Einstieg in China | Der Client verbindet sich nur mit einer Adresse innerhalb Chinas, den grenzüberschreitenden Teil übernehmen wir – Störungen auf der Auslandsstrecke betreffen Sie daher nicht |
+| China Mobile, Great Wall Broadband und andere | Einstieg in China | In diesen Netzen meist am stabilsten |
 | Mobile Daten | Je nach Netzbetreiber verschieden; getrennt vom Festnetz testen | Auf demselben Smartphone ist die beste Region im WLAN und in den mobilen Daten oft eine andere |
 
 Die Regionsliste von LeoTun zeigt mit **roter, gelber und grüner Ampel** die aktuelle Auslastung jeder Region; gibt es mehrere Einstiege für Japan, nehmen Sie den mit grüner Ampel.
