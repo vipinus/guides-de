@@ -6,7 +6,7 @@ LeoTun-Konten gibt es in drei Tarifen: Persönlich, Familie und Unternehmen. Sie
 
 | | Persönlich | Familie | Unternehmen |
 |---|---|---|---|
-| Monatspreis | $4 | $8 | $16 |
+| Monatspreis | $5 | $10 | $20 |
 | Preisfaktor | 1x | 2x | 4x |
 | Gleichzeitig online | 2 Geräte | 4 Geräte | 8 Geräte |
 | Regionen / Datenvolumen / Verbindungsarten | Alle / unbegrenzt / alle | Gleich | Gleich |
@@ -47,14 +47,14 @@ Alle drei Tarife haben dieselbe Rabattstaffel: 5 % → 10 % → 20 % Rabatt. Bei
 | Unternehmen | Ab 3 Monaten | Ab 6 Monaten | Ab 12 Monaten |
 
 - Monatsweise kaufen Sie höchstens 12 Monate auf einmal, jahresweise höchstens 4 Jahre. Auch monatsweise gibt es den Rabatt, sobald eine Stufe erreicht ist – Sie müssen also nicht „jährlich“ wählen.
-- Einige konkrete Beträge: Persönlich 12 Monate $45.60, 4 Jahre $153.60; Familie 6 Monate $45.60, 2 Jahre $153.60; Unternehmen 3 Monate $45.60, 1 Jahr $153.60.
+- Einige konkrete Beträge: Persönlich 12 Monate $57, 4 Jahre $192; Familie 6 Monate $57, 2 Jahre $192; Unternehmen 3 Monate $57, 1 Jahr $192.
 - Verlängern Sie, bevor Ihre Laufzeit abgelaufen ist, wird die gekaufte Zeit an das bisherige Ablaufdatum angehängt; die Resttage gehen nicht verloren.
 
 ## Zahlungsmethoden
 
 | Methode | Hinweise |
 |---|---|
-| Alipay | Zahlung in RMB, umgerechnet vom Dollarpreis zum aktuellen Wechselkurs |
+| Alipay | Zahlung in RMB zum festen Kurs 1 US-Dollar = 7 Yuan: monatlich Persönlich ¥35, Familie ¥70, Unternehmen ¥140 |
 | PayPal | Zahlung in US-Dollar; auch in China ausgegebene Bankkarten werden akzeptiert |
 | Kreditkarte | Visa, Mastercard, AMEX |
 | Punkte | Abbuchung von bereits aufgeladenen Punkten; damit ist auch Tageszahlung möglich |
@@ -75,17 +75,17 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 - Punkte aufladen: 25 Punkte für $8; pro Aufladung wählen Sie 25–150 Punkte. Punkte verfallen nie.
 - Tagesverbrauch: Persönlich 1 Punkt pro Tag, Familie 2 Punkte, Unternehmen 4 Punkte. Ein Tag im Tarif Persönlich kostet etwa $0.32.
 - Mit Punkten können Sie auch monatsweise (30 Tage) oder jahresweise (365 Tage) verlängern, allerdings ohne Rabatt.
-- Für wen es sich lohnt: Wer den Dienst nur zehn oder so Tage im Monat braucht oder nur wenige Tage vor einer Reise nach China. Wer täglich verbindet, fährt mit dem Monatsabo günstiger; im Tarif Persönlich lohnt sich ab mehr als 12 Tagen im Monat das Monatsabo.
+- Für wen es sich lohnt: Wer den Dienst nur zehn oder so Tage im Monat braucht oder nur wenige Tage vor einer Reise nach China. Wer täglich verbindet, fährt mit dem Monatsabo günstiger; im Tarif Persönlich lohnt sich ab mehr als 15 Tagen im Monat das Monatsabo.
 
 ## Gratistest und Einladungsbonus: in jedem Tarif gleich viel wert
 
 | | Persönlich | Familie | Unternehmen |
 |---|---|---|---|
-| Gratistest | 24 Stunden | 12 Stunden | 6 Stunden |
+| Gratistest | 4 Stunden | 2 Stunden | 1 Stunde |
 | Pro eingeladenem Freund bei dessen erster Zahlung (Sie und Ihr Freund erhalten je) | +20 Tage | +10 Tage | +5 Tage |
 | Laufzeit inklusive beim Routerkauf (Modelle mit 24 Monaten) | 24 Monate | 12 Monate | 6 Monate |
 
-- Gratistest: Nach der Registrierung auf der Startseite anfordern, keine Kreditkarte nötig; ein Testcode kommt per E-Mail, Sie geben den 6-stelligen Code ein und aktivieren; einmal pro Konto. Neue Konten stehen im Tarif Persönlich, daher erhalten Sie normalerweise 24 Stunden.
+- Gratistest: Nach der Registrierung auf der Startseite anfordern, keine Kreditkarte nötig; ein Testcode kommt per E-Mail, Sie geben den 6-stelligen Code ein und aktivieren; einmal pro Konto. Neue Konten stehen im Tarif Persönlich, daher erhalten Sie normalerweise 4 Stunden.
 - Einladung: Registriert sich ein Freund über Ihren Empfehlungslink und zahlt zum ersten Mal, wird Ihre Laufzeit und die Ihres Freundes direkt verlängert – ohne Begrenzung der Personenzahl. Die Tage jeder Seite richten sich nach dem Tarif, in dem die jeweilige Person gerade steht.
 - Alle Werte werden umgekehrt proportional zum Preisfaktor umgerechnet; der Gegenwert ist also in jedem Tarif derselbe.
 
@@ -93,7 +93,7 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 
 - In den 24 Stunden vor Ablauf erhalten Sie eine Erinnerung „Dienst läuft bald ab“ per E-Mail.
 - Nach Ablauf verbindet keine Verbindungsart mehr; Geräte im Privaten Netzwerk gehen innerhalb weniger Minuten offline, und den Hiddify-QR-Code können Sie erst nach der Verlängerung neu erzeugen.
-- Ein, zwei Tage nach Ablauf kommt eine E-Mail „Dienst ist abgelaufen“; wer berechtigt ist, findet darin eine Schaltfläche, die ohne Anmeldung je nach Tarif 24 / 12 / 6 Stunden gutschreibt. Der Link gilt 7 Tage und lässt sich nur einmal anklicken.
+- Ein, zwei Tage nach Ablauf kommt eine E-Mail „Dienst ist abgelaufen“; wer berechtigt ist, findet darin eine Schaltfläche, die ohne Anmeldung je nach Tarif 4 / 2 / 1 Stunden gutschreibt. Der Link gilt 7 Tage und lässt sich nur einmal anklicken.
 - Nach der Verlängerung läuft der Dienst sofort wieder; Geräte im Privaten Netzwerk müssen nur noch einmal auf Anmelden klicken, die Ausgangseinstellung bleibt erhalten.
 
 ## Häufige Fragen
@@ -102,7 +102,7 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 
 **Sollte eine Einzelperson den Tarif Familie nehmen?** Nein. Alle drei Tarife haben dieselben Funktionen, auch der Router ist überall dabei; die 2 gleichzeitigen Geräte im Tarif Persönlich reichen für ein Smartphone plus einen Computer. Familie lohnt sich erst, wenn zu Hause ein Router läuft und Sie zusätzlich zwei Geräte unterwegs nutzen.
 
-**Warum sehe ich bei Alipay einen RMB-Betrag?** Die Preise sind in US-Dollar festgelegt; Alipay rechnet zum Zahlungszeitpunkt zum aktuellen Kurs in RMB um, daher schwankt der RMB-Betrag leicht mit dem Wechselkurs.
+**Warum sehe ich bei Alipay einen RMB-Betrag?** Die Preise sind in US-Dollar festgelegt; Alipay rechnet zum festen Kurs 1 US-Dollar = 7 Yuan in RMB um (monatlich Persönlich ¥35, Familie ¥70, Unternehmen ¥140; 25 Punkte ¥56). Der RMB-Betrag schwankt also nicht mit dem Wechselkurs.
 
 **Kann ich Punkte und Monatsabo kombinieren?** Ja. Punkte verfallen nicht; wählen Sie beim Verlängern „Punkte“ als Zahlungsmethode, wird vom Guthaben abgebucht, mit jeder anderen Methode zahlen Sie wie gewohnt mit Geld.
 
@@ -117,4 +117,4 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 - [FAQ und Support kontaktieren](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08)
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum

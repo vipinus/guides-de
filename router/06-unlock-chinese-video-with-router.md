@@ -11,7 +11,7 @@
 | Was | Hinweise |
 |---|---|
 | Einen unterstützten Router | Ein vorinstallierter funktioniert sofort; wenn Sie selbst flashen, siehe [Firmware flashen](02-flash-firmware-yourself.md) |
-| Ein Konto | Die Tarife Persönlich, Familie und Unternehmen unterstützen alle die Router-Funktion. Fordern Sie nach der Registrierung zuerst den Gratistest an, um den ganzen Ablauf zu prüfen: Ein neues Konto steht im Tarif Persönlich, mit 24 Stunden Test |
+| Ein Konto | Die Tarife Persönlich, Familie und Unternehmen unterstützen alle die Router-Funktion. Fordern Sie nach der Registrierung zuerst den Gratistest an, um den ganzen Ablauf zu prüfen: Ein neues Konto steht im Tarif Persönlich, mit 4 Stunden Test |
 | Einen vorgeschalteten Anschluss | Das Modem oder der Router, den Sie zu Hause schon haben; der neue Router kommt dahinter |
 
 ## In fünf Schritten erledigt
@@ -37,4 +37,4 @@ Die Videodomains auf der Split-Routing-Liste werden in einem öffentlichen Repos
 - **Auf einem alten Router wird das ganze Heimnetz langsam**: Der Prozessor kommt mit dem verschlüsselten Datenverkehr nicht hinterher; wechseln Sie zu einem leistungsstärkeren Modell, siehe [Erste Schritte mit dem vorinstallierten Router](01-plug-and-play-router.md).
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-06)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-06) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-06)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-06) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot

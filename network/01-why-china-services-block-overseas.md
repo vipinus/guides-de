@@ -28,4 +28,4 @@ Genau das leistet eine „Leitung nach China“: Sie schickt Ihren Datenverkehr 
 - [Checkliste bei keiner Verbindung, Langsamkeit und Abbrüchen](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-01)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-01) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-01)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-01) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum

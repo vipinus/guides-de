@@ -22,7 +22,7 @@ Verwandte oder Freunde wohnen ein paar Tage bei Ihnen, auf der Dienstreise sind 
 
 ## Was ein vorübergehendes Hochstufen kostet: ein Rechenbeispiel
 
-Die drei Tarife kosten im Verhältnis 1 : 2 : 4 (Persönlich $4, Familie $8, Unternehmen $16 pro Monat); beim Tarifwechsel wird die Restlaufzeit in diesem Verhältnis umgerechnet, niemand verliert etwas. Ein Beispiel: Mit 30 Tagen Restlaufzeit im Tarif Familie wechseln Sie vorübergehend zu Unternehmen – daraus werden 15 Tage. Nach 3 Tagen Nutzung bleiben 12 Tage, und zurück im Tarif Familie werden daraus 24 Tage. Wären Sie durchgehend in Familie geblieben (30 − 3 = 27 Tage), hätten Sie 3 Tage mehr; diese 3 Tage wurden also zum Preis von Unternehmen berechnet, und Sie haben nur die Differenz für diese 3 Tage mehr bezahlt.
+Die drei Tarife kosten im Verhältnis 1 : 2 : 4 (Persönlich $4, Familie $8, Unternehmen $20 pro Monat); beim Tarifwechsel wird die Restlaufzeit in diesem Verhältnis umgerechnet, niemand verliert etwas. Ein Beispiel: Mit 30 Tagen Restlaufzeit im Tarif Familie wechseln Sie vorübergehend zu Unternehmen – daraus werden 15 Tage. Nach 3 Tagen Nutzung bleiben 12 Tage, und zurück im Tarif Familie werden daraus 24 Tage. Wären Sie durchgehend in Familie geblieben (30 − 3 = 27 Tage), hätten Sie 3 Tage mehr; diese 3 Tage wurden also zum Preis von Unternehmen berechnet, und Sie haben nur die Differenz für diese 3 Tage mehr bezahlt.
 
 Zwei Einschränkungen: Wurde in den letzten 30 Minuten eine Zahlung gestartet, aber nicht abgeschlossen, geht der Wechsel nicht durch; schließen Sie die Zahlung ab oder brechen Sie sie ab und warten Sie eine halbe Stunde. Sind beim Zurückwechseln in den niedrigeren Tarif noch mehr Geräte online, als dieser erlaubt, fordert die Website Sie auf, die überzähligen Geräte zuerst zu trennen.
 
@@ -56,4 +56,4 @@ Kommen zu Hause immer mehr Geräte dazu und braucht jedes Familienmitglied den Z
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum

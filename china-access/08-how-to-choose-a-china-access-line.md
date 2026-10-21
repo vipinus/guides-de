@@ -26,7 +26,7 @@ Das Problem ist nicht „kostenlos“, sondern die Kostenstruktur. Ausgangsbandb
 
 Kostenlose Browser-Erweiterungen „für China“ haben einen weiteren blinden Fleck: Sie leiten nur die Webanfragen des Browsers weiter, während Videoplayer, Apps und System-DNS nicht hindurchgehen. Deshalb ist „Die Webseite öffnet sich, aber das Video läuft nicht“ so häufig.
 
-Um ab und zu etwas nachzuschlagen, reicht kostenlos. Für Serien, Musik und Onlinebanking ist die Zeit, die eine stabile kostenpflichtige Leitung spart, weit mehr wert als die Abogebühr. Fordern Sie zuerst den 24-stündigen Test an, probieren Sie ihn einmal zur abendlichen Spitzenzeit und entscheiden Sie dann.
+Um ab und zu etwas nachzuschlagen, reicht kostenlos. Für Serien, Musik und Onlinebanking ist die Zeit, die eine stabile kostenpflichtige Leitung spart, weit mehr wert als die Abogebühr. Fordern Sie zuerst den 4-stündigen Test an, probieren Sie ihn einmal zur abendlichen Spitzenzeit und entscheiden Sie dann.
 
 ## Wie sich Auslandsstudierende, Reisende und Familien jeweils einrichten
 
@@ -53,4 +53,4 @@ Um ab und zu etwas nachzuschlagen, reicht kostenlos. Für Serien, Musik und Onli
 **Kann ich Clash nutzen?** Ja. LeoTun stellt ein sing-box-Abonnement, ein Clash-Abonnement und einen hysteria2-Freigabelink bereit. Mit Clash Meta, Clash Verge, FlClash, Stash und Ähnlichen klicken Sie auf die Schaltfläche „Clash-Abonnement“ und fügen die URL in die Abo-Liste des Clients ein; ein Abo-Konverter ist nicht nötig, und den Freigabelink nutzen Sie nicht. Das ursprüngliche Clash und Clash for Windows funktionieren nicht, weil ihrem Kern hysteria2 fehlt. Dieses Abo schickt standardmäßig alles außer Ihrem lokalen Netz über den Knoten, für chinesische Videos müssen Sie also nichts ändern; legen Sie eigene Regeln an, stellen Sie chinesische Domains nicht auf „direkt“.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot

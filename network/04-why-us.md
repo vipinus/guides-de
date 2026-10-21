@@ -20,14 +20,14 @@ Umgekehrt gilt: Wer aus dem Ausland chinesische Dienste erreichen will, wählt m
 - Stärken der Proxy-Anbieter: günstig, viele Knoten, sofort nutzbar, sobald der Abo-Link eingefügt ist; wer gern an Clients herumbastelt, genießt die Freiheit.
 - Schwächen der Proxy-Anbieter: Meist mieten Einzelpersonen oder kleine Teams Server im Ausland und verkaufen Datenvolumen weiter, ohne eigenen Ausgang in China; die Qualität der Ausgänge schwankt mit den gemieteten Leitungen. Verschwinden mit dem Geld, Umbenennen und Schließen sind an der Tagesordnung – wer für ein Jahr zahlt, kann es noch lange nicht ein ganzes Jahr nutzen. Um die Clients müssen sich die Nutzer fast ganz allein kümmern, und wenn etwas schiefgeht, ist niemand zuständig.
 - Was wir tun: Die Maschinen gehören uns, und die Ausgänge in China sind eigene, auf Klarnamen registrierte Maschinen bei Cloud-Anbietern in Festlandchina. Ein Konto bietet sechs Verbindungsarten; die Router-Lösung für alle Geräte und die rund um die Uhr erreichbare Supportgruppe haben Proxy-Anbieter nicht. Wir sind von 2006 bis heute in Betrieb, und Konten, Laufzeiten und Preise sind vor und nach der Umbenennung unverändert geblieben.
-- Unsere Preise: Tarif Persönlich $4 pro Monat, Familie $8, Unternehmen $16 – darin enthalten sind eigene Maschinen, sechs Verbindungsarten und die Supportgruppe rund um die Uhr. Sie wählen nur die Region; hinter jeder Region nimmt das System die am wenigsten ausgelastete Maschine, Sie müssen also keine Knoten selbst testen und aussuchen.
+- Unsere Preise: Tarif Persönlich $5 pro Monat, Familie $8, Unternehmen $20 – darin enthalten sind eigene Maschinen, sechs Verbindungsarten und die Supportgruppe rund um die Uhr. Sie wählen nur die Region; hinter jeder Region nimmt das System die am wenigsten ausgelastete Maschine, Sie müssen also keine Knoten selbst testen und aussuchen.
 
 ## Im Vergleich mit kostenloser Software
 
 - Stärken von Gratisangeboten: Sie kosten nichts und reichen, um ab und zu etwas nachzuschlagen.
 - Schwächen von Gratisangeboten: Bandbreite an Ausgängen in Festlandchina wird nach Verbrauch abgerechnet; ein Gratisdienst hält sich nur, indem er Nutzer zusammenpfercht, drosselt oder Daten verkauft. Browsererweiterungen leiten nur Webanfragen um; Video, Apps und System-DNS laufen nicht darüber. Installationsprogramme unklarer Herkunft sind schon an sich ein Risiko, siehe „Riskante VPN-Software erkennen“.
-- Was wir tun: Der 24-stündige Gratistest braucht keine Kreditkarte und ist zum Ausprobieren gedacht; die Tageszahlung (Punkte) ist für Gelegenheitsnutzer; zahlt ein Freund, den Sie eingeladen haben, erhalten Sie beide 20 Tage (Basis Tarif Persönlich) – eine dauerhafte Quelle für Gratiszeit.
-- Wie wir es regeln: Gratiszeit kommt aus dem 24-stündigen Test und aus Einladungsboni; für die dauerhafte Nutzung zahlen Sie monats-, jahres- oder tageweise.
+- Was wir tun: Der 4-stündige Gratistest braucht keine Kreditkarte und ist zum Ausprobieren gedacht; die Tageszahlung (Punkte) ist für Gelegenheitsnutzer; zahlt ein Freund, den Sie eingeladen haben, erhalten Sie beide 20 Tage (Basis Tarif Persönlich) – eine dauerhafte Quelle für Gratiszeit.
+- Wie wir es regeln: Gratiszeit kommt aus dem 4-stündigen Test und aus Einladungsboni; für die dauerhafte Nutzung zahlen Sie monats-, jahres- oder tageweise.
 
 ## Sechs Verbindungsarten, ein Konto
 
@@ -55,9 +55,9 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 
 **Warum bieten Sie nicht Hunderte Knoten wie Proxy-Anbieter?** Mehr Knoten heißt nicht stabiler. Hinter jeder unserer Regionen stehen mehrere Maschinen, und beim Verbinden wählt das System die am wenigsten ausgelastete – Sie müssen keine Geschwindigkeitstests machen und keine Knoten aussuchen. Wird eine Adresse gesperrt, wird sie automatisch ersetzt; die Adresse in Ihrem Client müssen Sie nicht ändern.
 
-**Geht es noch günstiger?** Der Tarif Persönlich kostet $4 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.32 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide 20 Tage mehr (Basis Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 24-stündiger Gratistest.
+**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.32 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide 20 Tage mehr (Basis Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
 
-**Wie kann ich Ihre Angaben überprüfen?** Holen Sie sich den 24-stündigen Test, verbinden Sie sich zur Abendspitze mit der Region China und sehen Sie eine Folge auf Tencent Video, verbinden Sie sich mit einer Auslandsregion und öffnen Sie YouTube, und prüfen Sie den registrierten Standort der IP sowie eine IPv6-Testseite. Die Checkliste steht in „Ein VPN für China auswählen“.
+**Wie kann ich Ihre Angaben überprüfen?** Holen Sie sich den 4-stündigen Test, verbinden Sie sich zur Abendspitze mit der Region China und sehen Sie eine Folge auf Tencent Video, verbinden Sie sich mit einer Auslandsregion und öffnen Sie YouTube, und prüfen Sie den registrierten Standort der IP sowie eine IPv6-Testseite. Die Checkliste steht in „Ein VPN für China auswählen“.
 
 
 ## Weiterlesen
@@ -70,4 +70,4 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot

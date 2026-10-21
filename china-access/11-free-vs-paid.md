@@ -24,9 +24,9 @@ Ein einfacher Test: Wenn es Sie ärgern würde, dass die Verbindung abbricht, is
 
 ## Wie viel Sie ausgeben sollten
 
-Der Tarif Persönlich von LeoTun kostet 4 US-Dollar im Monat und umfasst 24 Regionen, 2 Geräte gleichzeitig online und alle Verbindungsarten – AnyConnect / OpenVPN / Hiddify / Web-Proxy –; auch mit einem Router lässt er sich nutzen. Die Tarife Familie und Unternehmen kosten das 2- bzw. 4-Fache von Persönlich. Regionen, Leitungen und Verbindungsarten sind in allen drei Tarifen genau gleich; der einzige Unterschied ist die Zahl der gleichzeitig verbundenen Geräte (4 bzw. 8).
+Der Tarif Persönlich von LeoTun kostet 5 US-Dollar im Monat und umfasst 24 Regionen, 2 Geräte gleichzeitig online und alle Verbindungsarten – AnyConnect / OpenVPN / Hiddify / Web-Proxy –; auch mit einem Router lässt er sich nutzen. Die Tarife Familie und Unternehmen kosten das 2- bzw. 4-Fache von Persönlich. Regionen, Leitungen und Verbindungsarten sind in allen drei Tarifen genau gleich; der einzige Unterschied ist die Zahl der gleichzeitig verbundenen Geräte (4 bzw. 8).
 
-Wollen Sie nicht monatsweise kaufen, gibt es zwei Wege: Holen Sie sich zuerst den 24-stündigen Gratistest (ohne Kreditkarte, einmal pro Konto) und probieren Sie ihn einmal zur Abendspitze aus; oder zahlen Sie tageweise. Nach dem Aufladen von Punkten kostet der Tarif Persönlich 1 Punkt pro Tag, und 25 Punkte kosten 8 US-Dollar – das sind etwa 0,32 US-Dollar pro Tag; ideal, wenn Sie nur für die wenigen Tage einer Chinareise kaufen.
+Wollen Sie nicht monatsweise kaufen, gibt es zwei Wege: Holen Sie sich zuerst den 4-stündigen Gratistest (ohne Kreditkarte, einmal pro Konto) und probieren Sie ihn einmal zur Abendspitze aus; oder zahlen Sie tageweise. Nach dem Aufladen von Punkten kostet der Tarif Persönlich 1 Punkt pro Tag, und 25 Punkte kosten 8 US-Dollar – das sind etwa 0,32 US-Dollar pro Tag; ideal, wenn Sie nur für die wenigen Tage einer Chinareise kaufen.
 
 Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal, verlängert sich Ihre Laufzeit und die Ihres Freundes um je 20 Tage (Basis Tarif Persönlich), ohne Begrenzung der Personenzahl. Das ist eine dauerhafte Quelle für Gratiszeit.
 
@@ -46,7 +46,7 @@ Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal,
 
 **Was lohnt sich mehr, Tages- oder Monatszahlung?** Nutzen Sie es 12 Tage oder mehr im Monat, lohnt sich das Monatsabo; nutzen Sie es nur ab und zu ein paar Tage, die Tageszahlung. Punkte verfallen nicht, eine Aufladung hält lange.
 
-**Brauche ich für den Test eine Kreditkarte?** Nein. Fordern Sie ihn nach der Registrierung auf der Startseite an: 24 Stunden mit allen Funktionen, einmal pro Konto.
+**Brauche ich für den Test eine Kreditkarte?** Nein. Fordern Sie ihn nach der Registrierung auf der Startseite an: 4 Stunden mit allen Funktionen, einmal pro Konto.
 
 **Ich habe bezahlt, und es bricht trotzdem ab. Was tun?** Wechseln Sie zuerst die Region, dann die Verbindungsart (alle drei Protokolle lassen sich mit demselben Konto nutzen); hilft das nicht, lesen Sie die Anleitung zur Fehlerbehebung oder wenden Sie sich an den Support. Wer zahlt, bezahlt auch dafür, dass jemand zuständig ist.
 
@@ -60,4 +60,4 @@ Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal,
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot

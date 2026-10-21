@@ -39,15 +39,15 @@ Schließen Sie Fernseher und Desktop-PC per Kabel an, wo immer es geht. WLAN in 
 
 ## So wissen Sie es vor dem Kauf
 
-Registrieren Sie sich und nutzen Sie den 24-stündigen Gratistest, ohne Kreditkarte. Verbinden Sie sich zu der Tageszeit, zu der Sie es am meisten nutzen, etwa am Abend, und sehen Sie ein YouTube-Video in HD. Was Sie auf Smartphone oder Laptop sehen, kommt dem nahe, was der Router liefern wird. Über den Router entscheiden Sie danach.
+Registrieren Sie sich und nutzen Sie den 4-stündigen Gratistest, ohne Kreditkarte. Verbinden Sie sich zu der Tageszeit, zu der Sie es am meisten nutzen, etwa am Abend, und sehen Sie ein YouTube-Video in HD. Was Sie auf Smartphone oder Laptop sehen, kommt dem nahe, was der Router liefern wird. Über den Router entscheiden Sie danach.
 
 ## Häufige Fragen
 
-**Warum sagen Sie mir nicht einfach, wie viele Megabit?** Weil die Zahl für jeden Menschen und zu jeder Stunde anders ist. Wir versprechen flüssige YouTube-Wiedergabe, auch zur Abendspitze, sofern Ihr Breitband gut ist: China Unicom im Norden oder China Telecom im Süden. Die Ausnahme ist geteiltes Breitband in Wohnanlagen (小区宽带). Der 24-stündige Gratistest, einmal selbst ausprobiert, ist der genaueste Test.
+**Warum sagen Sie mir nicht einfach, wie viele Megabit?** Weil die Zahl für jeden Menschen und zu jeder Stunde anders ist. Wir versprechen flüssige YouTube-Wiedergabe, auch zur Abendspitze, sofern Ihr Breitband gut ist: China Unicom im Norden oder China Telecom im Süden. Die Ausnahme ist geteiltes Breitband in Wohnanlagen (小区宽带). Der 4-stündige Gratistest, einmal selbst ausprobiert, ist der genaueste Test.
 
 **Die Speedtest-Seite zeigt einen niedrigen Wert, aber Videos laufen flüssig?** Das ist normal. Speedtest-Server haben selbst ruhige und volle Phasen, und zwei Messungen im Abstand von einer Minute können sich um das Doppelte unterscheiden. Maßgeblich ist das, was Sie tatsächlich tun wollen.
 
 **Wird es mit einem teureren Router schneller?** Nur wenn der Router der Engpass ist, etwa ein Mini-Modell an einem schnellen Anschluss. Ist der Engpass die grenzüberschreitende Strecke, bringt ein neuer Router nichts, eine andere Region dagegen schon.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 24-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
