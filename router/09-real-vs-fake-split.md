@@ -60,4 +60,4 @@ Keines davon **erzeugt eine Fehlermeldung**. Der Router zeigt die ganze Zeit „
 **Wirkt es sich auf Drucker oder NAS aus?** Nein. Geräte im Heimnetz werden wie gewohnt direkt erreicht.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot

@@ -17,7 +17,7 @@ LeoTun-Konten gibt es in drei Tarifen: Persönlich, Familie und Unternehmen. Sie
 
 ## Neue Konten und Tarifwahl beim Kauf
 
-- Ein neu registriertes Konto steht standardmäßig im Tarif Persönlich; Gratistest und Einladungsbonus werden nach den Werten von Persönlich vergeben.
+- Ein neu registriertes Konto steht standardmäßig im Tarif Persönlich; der Gratistest wird mit der Dauer von Persönlich vergeben.
 - Im Verlängerungsdialog gibt es eine Auswahl „Tarif“, die auf Ihrem aktuellen Tarif steht. Klicken Sie auf der Startseite auf eine Preiskarte, ist dieser Tarif im Dialog vorausgewählt; Sie können ihn dort noch ändern.
 - Wählen Sie einen anderen Tarif, zeigt der Dialog: „Nach Zahlungseingang wechselt Ihr Konto automatisch zu … ; noch nicht abgelaufene Laufzeit wird wertgleich umgerechnet.“ Preis, Rabatt und Punktezahl werden live für den gewählten Tarif berechnet – was Sie sehen, wird auch abgebucht.
 - Den Tarif können Sie auch ohne Kauf wechseln: Klicken Sie auf Ihren Benutzernamen und wechseln Sie dort den Tarif.
@@ -77,17 +77,17 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 - Mit Punkten können Sie auch monatsweise (30 Tage) oder jahresweise (365 Tage) verlängern, allerdings ohne Rabatt.
 - Für wen es sich lohnt: Wer den Dienst nur zehn oder so Tage im Monat braucht oder nur wenige Tage vor einer Reise nach China. Wer täglich verbindet, fährt mit dem Monatsabo günstiger; im Tarif Persönlich lohnt sich ab mehr als 15 Tagen im Monat das Monatsabo.
 
-## Gratistest und Einladungsbonus: in jedem Tarif gleich viel wert
+## Gratistest und Einladungsbonus je Tarif
 
 | | Persönlich | Familie | Unternehmen |
 |---|---|---|---|
 | Gratistest | 4 Stunden | 2 Stunden | 1 Stunde |
-| Pro eingeladenem Freund bei dessen erster Zahlung (Sie und Ihr Freund erhalten je) | +20 Tage | +10 Tage | +5 Tage |
+| Pro eingeladenem Freund bei dessen erster Zahlung (Sie und Ihr Freund erhalten je) | 15 Punkte | 15 Punkte | 15 Punkte |
 | Laufzeit inklusive beim Routerkauf (Modelle mit 24 Monaten) | 24 Monate | 12 Monate | 6 Monate |
 
 - Gratistest: Nach der Registrierung auf der Startseite anfordern, keine Kreditkarte nötig; ein Testcode kommt per E-Mail, Sie geben den 6-stelligen Code ein und aktivieren; einmal pro Konto. Neue Konten stehen im Tarif Persönlich, daher erhalten Sie normalerweise 4 Stunden.
-- Einladung: Registriert sich ein Freund über Ihren Empfehlungslink und zahlt zum ersten Mal, wird Ihre Laufzeit und die Ihres Freundes direkt verlängert – ohne Begrenzung der Personenzahl. Die Tage jeder Seite richten sich nach dem Tarif, in dem die jeweilige Person gerade steht.
-- Alle Werte werden umgekehrt proportional zum Preisfaktor umgerechnet; der Gegenwert ist also in jedem Tarif derselbe.
+- Einladung: Registriert sich ein Freund über Ihren Empfehlungslink und zahlt zum ersten Mal, erhalten Sie und Ihr Freund je 15 Punkte direkt auf das Punktekonto – in jedem Tarif gleich und ohne Begrenzung der Personenzahl. Der Tarif Persönlich verbraucht 1 Punkt pro Tag, 15 Punkte entsprechen also etwa 15 Tagen; Sie können damit tageweise verlängern.
+- Gratistest und die beim Routerkauf enthaltene Laufzeit werden umgekehrt proportional zum Preisfaktor umgerechnet, der Gegenwert ist also in jedem Tarif derselbe; der Einladungsbonus wird in Punkten gutgeschrieben und ist in allen drei Tarifen gleich.
 
 ## Nach Ablauf
 
@@ -117,4 +117,4 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 - [FAQ und Support kontaktieren](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08)
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein Angebot ohne Enddatum

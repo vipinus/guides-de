@@ -56,4 +56,4 @@ Kommen zu Hause immer mehr Geräte dazu und braucht jedes Familienmitglied den Z
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein Angebot ohne Enddatum
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-09)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-09) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; für jeden eingeladenen Freund, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein Angebot ohne Enddatum

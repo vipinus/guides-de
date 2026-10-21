@@ -25,4 +25,4 @@ Für die Registrierung brauchen Sie eine Mobilnummer, die SMS empfangen kann. Da
 - Lässt es sich nicht installieren oder stürzt es beim Start ab, nennen Sie dem Support Ihre Systemversion und Ihr Gerätemodell; meist passen Modell oder Version nicht zusammen.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot

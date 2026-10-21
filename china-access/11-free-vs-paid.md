@@ -28,7 +28,7 @@ Der Tarif Persönlich von LeoTun kostet 5 US-Dollar im Monat und umfasst 24 Regi
 
 Wollen Sie nicht monatsweise kaufen, gibt es zwei Wege: Holen Sie sich zuerst den 4-stündigen Gratistest (ohne Kreditkarte, einmal pro Konto) und probieren Sie ihn einmal zur Abendspitze aus; oder zahlen Sie tageweise. Nach dem Aufladen von Punkten kostet der Tarif Persönlich 1 Punkt pro Tag, und 25 Punkte kosten 8 US-Dollar – das sind etwa 0,32 US-Dollar pro Tag; ideal, wenn Sie nur für die wenigen Tage einer Chinareise kaufen.
 
-Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal, verlängert sich Ihre Laufzeit und die Ihres Freundes um je 20 Tage (Basis Tarif Persönlich), ohne Begrenzung der Personenzahl. Das ist eine dauerhafte Quelle für Gratiszeit.
+Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal, erhalten Sie und Ihr Freund je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Das ist eine dauerhafte Quelle für Gratiszeit.
 
 ## Wie Sie vor dem Bezahlen prüfen
 
@@ -60,4 +60,4 @@ Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal,
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-11)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-11) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot

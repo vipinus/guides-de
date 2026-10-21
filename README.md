@@ -9,7 +9,7 @@ Andere Sprachen: [English](https://github.com/vipinus/guides-en) · [简体中�
 | So erhalten Sie sie | Was Sie bekommen |
 |---|---|
 | Gratistest nach der Registrierung anfordern | 4 Stunden mit allen Funktionen, keine Kreditkarte nötig |
-| Einen Freund einladen, der sich registriert und zum ersten Mal bezahlt | +20 Tage auf Ihr Ablaufdatum und das Ihres Freundes (Basis Tarif Persönlich; +10 Tage bei Familie, +5 Tage bei Unternehmen, jeweils nach dem eigenen Tarif), einmal pro Freund, ohne Begrenzung der Zahl der Freunde |
+| Einen Freund einladen, der sich registriert und zum ersten Mal bezahlt | Sie und Ihr Freund erhalten je 15 Punkte (etwa 15 Tage im Tarif Persönlich, der 1 Punkt pro Tag verbraucht), direkt auf Ihr Punktekonto, einmal pro Freund, ohne Begrenzung der Zahl der Freunde |
 
 Website: <https://www.leotun.com/de?utm_source=github&utm_content=readme> · Kontakt: <https://www.leotun.com/de/contact?utm_source=github&utm_content=readme>
 

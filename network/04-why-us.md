@@ -26,7 +26,7 @@ Umgekehrt gilt: Wer aus dem Ausland chinesische Dienste erreichen will, wählt m
 
 - Stärken von Gratisangeboten: Sie kosten nichts und reichen, um ab und zu etwas nachzuschlagen.
 - Schwächen von Gratisangeboten: Bandbreite an Ausgängen in Festlandchina wird nach Verbrauch abgerechnet; ein Gratisdienst hält sich nur, indem er Nutzer zusammenpfercht, drosselt oder Daten verkauft. Browsererweiterungen leiten nur Webanfragen um; Video, Apps und System-DNS laufen nicht darüber. Installationsprogramme unklarer Herkunft sind schon an sich ein Risiko, siehe „Riskante VPN-Software erkennen“.
-- Was wir tun: Der 4-stündige Gratistest braucht keine Kreditkarte und ist zum Ausprobieren gedacht; die Tageszahlung (Punkte) ist für Gelegenheitsnutzer; zahlt ein Freund, den Sie eingeladen haben, erhalten Sie beide 20 Tage (Basis Tarif Persönlich) – eine dauerhafte Quelle für Gratiszeit.
+- Was wir tun: Der 4-stündige Gratistest braucht keine Kreditkarte und ist zum Ausprobieren gedacht; die Tageszahlung (Punkte) ist für Gelegenheitsnutzer; zahlt ein Freund, den Sie eingeladen haben, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – eine dauerhafte Quelle für Gratiszeit.
 - Wie wir es regeln: Gratiszeit kommt aus dem 4-stündigen Test und aus Einladungsboni; für die dauerhafte Nutzung zahlen Sie monats-, jahres- oder tageweise.
 
 ## Sechs Verbindungsarten, ein Konto
@@ -55,7 +55,7 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 
 **Warum bieten Sie nicht Hunderte Knoten wie Proxy-Anbieter?** Mehr Knoten heißt nicht stabiler. Hinter jeder unserer Regionen stehen mehrere Maschinen, und beim Verbinden wählt das System die am wenigsten ausgelastete – Sie müssen keine Geschwindigkeitstests machen und keine Knoten aussuchen. Wird eine Adresse gesperrt, wird sie automatisch ersetzt; die Adresse in Ihrem Client müssen Sie nicht ändern.
 
-**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.32 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide 20 Tage mehr (Basis Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
+**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.32 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
 
 **Wie kann ich Ihre Angaben überprüfen?** Holen Sie sich den 4-stündigen Test, verbinden Sie sich zur Abendspitze mit der Region China und sehen Sie eine Folge auf Tencent Video, verbinden Sie sich mit einer Auslandsregion und öffnen Sie YouTube, und prüfen Sie den registrierten Standort der IP sowie eine IPv6-Testseite. Die Checkliste steht in „Ein VPN für China auswählen“.
 
@@ -70,4 +70,4 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide 20 Tage im Tarif Persönlich – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 4-stündigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
