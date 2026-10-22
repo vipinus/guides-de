@@ -26,7 +26,7 @@ Ein einfacher Test: Wenn es Sie ärgern würde, dass die Verbindung abbricht, is
 
 Der Tarif Persönlich von LeoTun kostet 5 US-Dollar im Monat und umfasst 24 Regionen, 2 Geräte gleichzeitig online und alle Verbindungsarten – AnyConnect / OpenVPN / Hiddify / Web-Proxy –; auch mit einem Router lässt er sich nutzen. Die Tarife Familie und Unternehmen kosten das 2- bzw. 4-Fache von Persönlich. Regionen, Leitungen und Verbindungsarten sind in allen drei Tarifen genau gleich; der einzige Unterschied ist die Zahl der gleichzeitig verbundenen Geräte (4 bzw. 8).
 
-Wollen Sie nicht monatsweise kaufen, gibt es zwei Wege: Holen Sie sich zuerst den 4-stündigen Gratistest (ohne Kreditkarte, einmal pro Konto) und probieren Sie ihn einmal zur Abendspitze aus; oder zahlen Sie tageweise. Nach dem Aufladen von Punkten kostet der Tarif Persönlich 1 Punkt pro Tag, und 25 Punkte kosten 10 US-Dollar – das sind etwa 0,4 US-Dollar pro Tag; ideal, wenn Sie nur für die wenigen Tage einer Chinareise kaufen.
+Wollen Sie nicht monatsweise kaufen, gibt es zwei Wege: Holen Sie sich zuerst den 4-stündigen Gratistest (ohne Kreditkarte, einmal pro Konto) und probieren Sie ihn einmal zur Abendspitze aus; oder zahlen Sie tageweise. Nach dem Aufladen von Punkten kostet der Tarif Persönlich 1 Punkt pro Tag, und 28 Punkte kosten 10 US-Dollar – das sind etwa 0,36 US-Dollar pro Tag; ideal, wenn Sie nur für die wenigen Tage einer Chinareise kaufen.
 
 Registriert sich ein Freund, den Sie eingeladen haben, und zahlt zum ersten Mal, erhalten Sie und Ihr Freund je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Das ist eine dauerhafte Quelle für Gratiszeit.
 

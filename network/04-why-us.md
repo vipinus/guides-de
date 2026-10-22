@@ -55,7 +55,7 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 
 **Warum bieten Sie nicht Hunderte Knoten wie Proxy-Anbieter?** Mehr Knoten heißt nicht stabiler. Hinter jeder unserer Regionen stehen mehrere Maschinen, und beim Verbinden wählt das System die am wenigsten ausgelastete – Sie müssen keine Geschwindigkeitstests machen und keine Knoten aussuchen. Wird eine Adresse gesperrt, wird sie automatisch ersetzt; die Adresse in Ihrem Client müssen Sie nicht ändern.
 
-**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.4 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
+**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.36 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
 
 **Wie kann ich Ihre Angaben überprüfen?** Holen Sie sich den 4-stündigen Test, verbinden Sie sich zur Abendspitze mit der Region China und sehen Sie eine Folge auf Tencent Video, verbinden Sie sich mit einer Auslandsregion und öffnen Sie YouTube, und prüfen Sie den registrierten Standort der IP sowie eine IPv6-Testseite. Die Checkliste steht in „Ein VPN für China auswählen“.
 
