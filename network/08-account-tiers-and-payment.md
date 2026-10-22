@@ -72,10 +72,10 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 
 ## Punkte und Tageszahlung
 
-- Punkte aufladen: 25 Punkte für $8; pro Aufladung wählen Sie 25–150 Punkte. Punkte verfallen nie.
-- Tagesverbrauch: Persönlich 1 Punkt pro Tag, Familie 2 Punkte, Unternehmen 4 Punkte. Ein Tag im Tarif Persönlich kostet etwa $0.32.
+- Punkte aufladen: 25 Punkte für $10; pro Aufladung wählen Sie 25–150 Punkte. Punkte verfallen nie.
+- Tagesverbrauch: Persönlich 1 Punkt pro Tag, Familie 2 Punkte, Unternehmen 4 Punkte. Ein Tag im Tarif Persönlich kostet etwa $0.4.
 - Mit Punkten können Sie auch monatsweise (30 Tage) oder jahresweise (365 Tage) verlängern, allerdings ohne Rabatt.
-- Für wen es sich lohnt: Wer den Dienst nur zehn oder so Tage im Monat braucht oder nur wenige Tage vor einer Reise nach China. Wer täglich verbindet, fährt mit dem Monatsabo günstiger; im Tarif Persönlich lohnt sich ab mehr als 15 Tagen im Monat das Monatsabo.
+- Für wen es sich lohnt: Wer den Dienst nur zehn oder so Tage im Monat braucht oder nur wenige Tage vor einer Reise nach China. Wer täglich verbindet, fährt mit dem Monatsabo günstiger; im Tarif Persönlich lohnt sich ab mehr als 12 Tagen im Monat das Monatsabo.
 
 ## Gratistest und Einladungsbonus je Tarif
 
@@ -102,7 +102,7 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 
 **Sollte eine Einzelperson den Tarif Familie nehmen?** Nein. Alle drei Tarife haben dieselben Funktionen, auch der Router ist überall dabei; die 2 gleichzeitigen Geräte im Tarif Persönlich reichen für ein Smartphone plus einen Computer. Familie lohnt sich erst, wenn zu Hause ein Router läuft und Sie zusätzlich zwei Geräte unterwegs nutzen.
 
-**Warum sehe ich bei Alipay einen RMB-Betrag?** Die Preise sind in US-Dollar festgelegt; Alipay rechnet zum festen Kurs 1 US-Dollar = 7 Yuan in RMB um (monatlich Persönlich ¥35, Familie ¥70, Unternehmen ¥140; 25 Punkte ¥56). Der RMB-Betrag schwankt also nicht mit dem Wechselkurs.
+**Warum sehe ich bei Alipay einen RMB-Betrag?** Die Preise sind in US-Dollar festgelegt; Alipay rechnet zum festen Kurs 1 US-Dollar = 7 Yuan in RMB um (monatlich Persönlich ¥35, Familie ¥70, Unternehmen ¥140; 25 Punkte ¥70). Der RMB-Betrag schwankt also nicht mit dem Wechselkurs.
 
 **Kann ich Punkte und Monatsabo kombinieren?** Ja. Punkte verfallen nicht; wählen Sie beim Verlängern „Punkte“ als Zahlungsmethode, wird vom Guthaben abgebucht, mit jeder anderen Methode zahlen Sie wie gewohnt mit Geld.
 

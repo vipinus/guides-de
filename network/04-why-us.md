@@ -20,7 +20,7 @@ Umgekehrt gilt: Wer aus dem Ausland chinesische Dienste erreichen will, wählt m
 - Stärken der Proxy-Anbieter: günstig, viele Knoten, sofort nutzbar, sobald der Abo-Link eingefügt ist; wer gern an Clients herumbastelt, genießt die Freiheit.
 - Schwächen der Proxy-Anbieter: Meist mieten Einzelpersonen oder kleine Teams Server im Ausland und verkaufen Datenvolumen weiter, ohne eigenen Ausgang in China; die Qualität der Ausgänge schwankt mit den gemieteten Leitungen. Verschwinden mit dem Geld, Umbenennen und Schließen sind an der Tagesordnung – wer für ein Jahr zahlt, kann es noch lange nicht ein ganzes Jahr nutzen. Um die Clients müssen sich die Nutzer fast ganz allein kümmern, und wenn etwas schiefgeht, ist niemand zuständig.
 - Was wir tun: Die Maschinen gehören uns, und die Ausgänge in China sind eigene, auf Klarnamen registrierte Maschinen bei Cloud-Anbietern in Festlandchina. Ein Konto bietet sechs Verbindungsarten; die Router-Lösung für alle Geräte und die rund um die Uhr erreichbare Supportgruppe haben Proxy-Anbieter nicht. Wir sind von 2006 bis heute in Betrieb, und Konten, Laufzeiten und Preise sind vor und nach der Umbenennung unverändert geblieben.
-- Unsere Preise: Tarif Persönlich $5 pro Monat, Familie $8, Unternehmen $20 – darin enthalten sind eigene Maschinen, sechs Verbindungsarten und die Supportgruppe rund um die Uhr. Sie wählen nur die Region; hinter jeder Region nimmt das System die am wenigsten ausgelastete Maschine, Sie müssen also keine Knoten selbst testen und aussuchen.
+- Unsere Preise: Tarif Persönlich $5 pro Monat, Familie $10, Unternehmen $20 – darin enthalten sind eigene Maschinen, sechs Verbindungsarten und die Supportgruppe rund um die Uhr. Sie wählen nur die Region; hinter jeder Region nimmt das System die am wenigsten ausgelastete Maschine, Sie müssen also keine Knoten selbst testen und aussuchen.
 
 ## Im Vergleich mit kostenloser Software
 
@@ -55,7 +55,7 @@ Jedes Netz hat eine Verbindungsart, die am besten passt, deshalb bekommen Sie al
 
 **Warum bieten Sie nicht Hunderte Knoten wie Proxy-Anbieter?** Mehr Knoten heißt nicht stabiler. Hinter jeder unserer Regionen stehen mehrere Maschinen, und beim Verbinden wählt das System die am wenigsten ausgelastete – Sie müssen keine Geschwindigkeitstests machen und keine Knoten aussuchen. Wird eine Adresse gesperrt, wird sie automatisch ersetzt; die Adresse in Ihrem Client müssen Sie nicht ändern.
 
-**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.32 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
+**Geht es noch günstiger?** Der Tarif Persönlich kostet $5 pro Monat, und je länger Sie kaufen, desto höher der Rabatt (5 % → 10 % → 20 %); tageweise mit Punkten sind es etwa $0.4 pro Tag; zahlt ein eingeladener Freund, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich), ohne Begrenzung der Personenzahl. Zur Registrierung gehört außerdem ein 4-stündiger Gratistest.
 
 **Wie kann ich Ihre Angaben überprüfen?** Holen Sie sich den 4-stündigen Test, verbinden Sie sich zur Abendspitze mit der Region China und sehen Sie eine Folge auf Tencent Video, verbinden Sie sich mit einer Auslandsregion und öffnen Sie YouTube, und prüfen Sie den registrierten Standort der IP sowie eine IPv6-Testseite. Die Checkliste steht in „Ein VPN für China auswählen“.
 

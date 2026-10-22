@@ -29,7 +29,7 @@ SMS-Bestätigungscodes, die nie ankommen, haben nichts mit der Leitung zu tun; d
 
 ## Häufige Fragen
 
-**Die Reise dauert nur ein paar Tage. Muss ich einen ganzen Monat kaufen?** Nein. Fordern Sie den 4-stündigen Gratistest an, oder laden Sie Punkte auf und zahlen Sie tageweise: Im Tarif Persönlich kostet ein Tag 1 Punkt, etwa 0,32 US-Dollar – ideal für ein paar Tage.
+**Die Reise dauert nur ein paar Tage. Muss ich einen ganzen Monat kaufen?** Nein. Fordern Sie den 4-stündigen Gratistest an, oder laden Sie Punkte auf und zahlen Sie tageweise: Im Tarif Persönlich kostet ein Tag 1 Punkt, etwa 0,4 US-Dollar – ideal für ein paar Tage.
 
 **Können Smartphone und Laptop gleichzeitig verbunden sein?** Ja. Je nach Tarif sind mit einem Konto 2 / 4 / 8 Geräte gleichzeitig online (Persönlich / Familie / Unternehmen); der Tarif Persönlich reicht genau für ein Smartphone plus einen Laptop.
 
