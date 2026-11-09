@@ -21,11 +21,12 @@ Jeder Netzbetreiber verlässt China auf einem anderen Weg, und die richtige Regi
 
 **3. Der Router selbst**
 Der Verkehr muss verschlüsselt werden, bevor er in den Tunnel geht, und das ist Arbeit für den Prozessor des Routers. Die Modelle unterscheiden sich stark:
-- GL-MT300N-V2 (Mini): 100-Mbit/s-Ports. Reicht für 1080p auf Smartphone oder Laptop, einem schnellen Anschluss aber nicht gewachsen
 - GL-MT3000 (Reiserouter): schafft einen kleinen Haushalt. Für die meisten der erste Router
+- GL-AXT1800 (Reiserouter): Gigabit-Ports. Um unterwegs zwei Geräte per Kabel anzuschließen
+- GL-MT3600BE (Reiserouter): Wi‑Fi 7 und zwei 2,5G-Ports. Das schnellste WLAN zum Mitnehmen
 - GL-MT6000 (Desktop): 2,5G-Port. Für viele Geräte, 4K und Spielkonsolen
 
-Bei schnellem Anschluss und vollem Haushalt nehmen Sie den MT3000 oder MT6000, nicht den Mini.
+Bei schnellem Anschluss und vollem Haushalt nehmen Sie den MT3000 oder MT6000.
 
 **4. Die letzten Meter zu Hause**
 Schließen Sie Fernseher und Desktop-PC per Kabel an, wo immer es geht. WLAN in einem dicht bewohnten Mehrfamilienhaus leidet unter starken Störungen, und vieles, was nach „die Leitung ist langsam“ aussieht, liegt in Wahrheit in der eigenen Wohnung.
