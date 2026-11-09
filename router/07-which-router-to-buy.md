@@ -31,7 +31,7 @@ Auf beiden Wegen aktualisiert die Firmware ihre Komponenten selbst, neu flashen 
 | GL-MT3600BE | Reiserouter | $350 | 2 Jahre Persönlich | Dualband-Wi‑Fi 7 mit zwei 2,5G-Ports, etwa so groß wie der GL-MT3000 | Smartphones und Laptops mit Wi‑Fi 7, dazu schnelleres WLAN in einem Gerät, das sich noch mitnehmen lässt |
 | GL-MT6000 | Desktop | $400 | 2 Jahre Persönlich | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
 
-Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hälfte, Unternehmen ein Viertel – gleicher Gegenwert. Versand weltweit kostenlos, meist 3–14 Tage, Rückgabe innerhalb von 30 Tagen.
+Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hälfte, Unternehmen ein Viertel – gleicher Gegenwert. Versand weltweit kostenlos, meist 3–14 Tage. Sechs Monate Garantie, keine Rückerstattung für Router.
 
 ### Schnelle Wahl nach Situation
 
