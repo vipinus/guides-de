@@ -93,7 +93,7 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 
 - In den 24 Stunden vor Ablauf erhalten Sie eine Erinnerung „Dienst läuft bald ab“ per E-Mail.
 - Nach Ablauf verbindet keine Verbindungsart mehr; Geräte im Privaten Netzwerk gehen innerhalb weniger Minuten offline, und den Hiddify-QR-Code können Sie erst nach der Verlängerung neu erzeugen.
-- Ein, zwei Tage nach Ablauf kommt eine E-Mail „Dienst ist abgelaufen“; wer berechtigt ist, findet darin eine Schaltfläche, die ohne Anmeldung 30 Minuten gutschreibt. Der Link gilt 7 Tage und lässt sich nur einmal anklicken.
+- Ein, zwei Tage nach Ablauf kommt eine Erinnerungs-E-Mail „Dienst ist abgelaufen“.
 - Nach der Verlängerung läuft der Dienst sofort wieder; Geräte im Privaten Netzwerk müssen nur noch einmal auf Anmelden klicken, die Ausgangseinstellung bleibt erhalten.
 
 ## Häufige Fragen
