@@ -27,9 +27,9 @@ Auf beiden Wegen aktualisiert die Firmware ihre Komponenten selbst, neu flashen 
 | Modell | Typ | Preis | Inklusive | Was es ist | Am besten für |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | $200 | 12 Monate Dienst | Handtellergroß, Strom über USB (läuft auch an einer Powerbank); nur 2,4-GHz-WLAN, 100-Mbit/s-Ports | Eine Person auf Reisen: Hotel-LAN oder Hotel-WLAN, Smartphone und Laptop zum Surfen und für 1080p-Videos. Nicht als Hauptrouter zu Hause geeignet |
-| **GL-MT3000** | Reiserouter | $300 | 3 Jahre Persönlich | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
-| GL-MT6000 | Desktop | $400 | 3 Jahre Persönlich | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
-| GL-XE3000 | Mobil | $400 | 3 Jahre Persönlich | Eingebautes 5G/4G und Akku; mit SIM-Karte ein eigenständiges Netz, nimmt auch LAN-Kabel | Orte ohne festes Breitband: Wohnmobil, Baustelle, Messe, Kurzzeitmiete; oder als Reserve für den Festnetzanschluss |
+| **GL-MT3000** | Reiserouter | $300 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
+| GL-MT6000 | Desktop | $400 | 2 Jahre Persönlich | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
+| GL-XE3000 | Mobil | $400 | 2 Jahre Persönlich | Eingebautes 5G/4G und Akku; mit SIM-Karte ein eigenständiges Netz, nimmt auch LAN-Kabel | Orte ohne festes Breitband: Wohnmobil, Baustelle, Messe, Kurzzeitmiete; oder als Reserve für den Festnetzanschluss |
 
 Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hälfte, Unternehmen ein Viertel – gleicher Gegenwert. Versand weltweit kostenlos, meist 3–14 Tage, Rückgabe innerhalb von 30 Tagen.
 
@@ -46,7 +46,7 @@ Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hä
 
 - **Ein Gerät, zwei Rollen.** Stark genug als Hauptrouter für einen kleinen Haushalt, klein genug für die Reise. Als einziges der vier kann er beides.
 - **Er veraltet nicht so schnell.** Wi‑Fi 6 und ein 2,5G-Port lassen gegenüber den meisten Heimanschlüssen Luft nach oben. Der Mini hat nur 2,4-GHz-WLAN und 100-Mbit/s-Ports, die zu Hause zum Flaschenhals werden.
-- **Der Preis rechnet sich.** $300 mit 3 Jahren Dienst im Tarif Persönlich, gegenüber $200 mit 12 Monaten beim Mini. Rechnet man den enthaltenen Dienst mit, bekommen Sie für $100 mehr ein deutlich besseres Gerät plus zwei weitere Jahre.
+- **Der Preis rechnet sich.** $300 mit 2 Jahren Dienst im Tarif Persönlich, gegenüber $200 mit 12 Monaten beim Mini. Rechnet man den enthaltenen Dienst mit, bekommen Sie für $100 mehr ein deutlich besseres Gerät plus ein weiteres Jahr.
 - **Ihn kennen wir am besten.** Unser eigenes Testgerät ist dieses Modell, neue Firmware wird zuerst darauf geprüft, und die [Videoanleitung zum Flashen](02-flash-firmware-yourself.md) nutzt es. Haben Sie ein Problem, liegt dasselbe Gerät bei uns zum Vergleich auf dem Tisch.
 
 Wann nicht: Bei großer Wohnung, vielen Geräten oder Breitband über einem Gigabit nehmen Sie gleich den GL-MT6000; ohne festes Breitband den GL-XE3000; ist er nur für eine Person auf Reisen gedacht und zählt vor allem der Preis, reicht der GL-MT300N-V2.

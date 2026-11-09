@@ -83,7 +83,7 @@ In Festlandchina zeigt die Seite nach „Zahlung bestätigen“ zuerst „Weiter
 |---|---|---|---|
 | Gratistest | 30 Minuten | 30 Minuten | 30 Minuten |
 | Pro eingeladenem Freund bei dessen erster Zahlung (Sie und Ihr Freund erhalten je) | 15 Punkte | 15 Punkte | 15 Punkte |
-| Laufzeit inklusive beim Routerkauf (Modelle mit 3 Jahren) | 3 Jahre | 18 Monate | 9 Monate |
+| Laufzeit inklusive beim Routerkauf (Modelle mit 2 Jahren) | 2 Jahre | 12 Monate | 6 Monate |
 
 - Gratistest: Nach der Registrierung auf der Startseite anfordern, keine Kreditkarte nötig; ein Testcode kommt per E-Mail, Sie geben den 6-stelligen Code ein und aktivieren; einmal pro Konto; 30 Minuten in jedem Tarif.
 - Einladung: Registriert sich ein Freund über Ihren Empfehlungslink und zahlt zum ersten Mal, erhalten Sie und Ihr Freund je 15 Punkte direkt auf das Punktekonto – in jedem Tarif gleich und ohne Begrenzung der Personenzahl. Der Tarif Persönlich verbraucht 1 Punkt pro Tag, 15 Punkte entsprechen also etwa 15 Tagen; Sie können damit tageweise verlängern.
