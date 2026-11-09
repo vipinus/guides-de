@@ -26,7 +26,7 @@ Auf beiden Wegen aktualisiert die Firmware ihre Komponenten selbst, neu flashen 
 
 | Modell | Typ | Preis | Inklusive | Was es ist | Am besten für |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Reiserouter | $300 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
+| **GL-MT3000** | Reiserouter | $250 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
 | GL-AXT1800 | Reiserouter | $300 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6, ein Gigabit-WAN- und zwei Gigabit-LAN-Ports, etwa so groß wie der GL-MT3000 | Unterwegs neben dem WLAN zwei Geräte gleichzeitig per Kabel anschließen – etwa Laptop und TV-Box |
 | GL-MT3600BE | Reiserouter | $350 | 2 Jahre Persönlich | Dualband-Wi‑Fi 7 mit zwei 2,5G-Ports, etwa so groß wie der GL-MT3000 | Smartphones und Laptops mit Wi‑Fi 7, dazu schnelleres WLAN in einem Gerät, das sich noch mitnehmen lässt |
 | GL-MT6000 | Desktop | $400 | 2 Jahre Persönlich | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
@@ -46,7 +46,7 @@ Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hä
 
 - **Ein Gerät, zwei Rollen.** Stark genug als Hauptrouter für einen kleinen Haushalt, klein genug für die Reise. Als einziges der vier kann er beides.
 - **Er veraltet nicht so schnell.** Wi‑Fi 6 und ein 2,5G-Port lassen gegenüber den meisten Heimanschlüssen Luft nach oben.
-- **Der Preis ist der niedrigste.** $300 mit 2 Jahren Dienst im Tarif Persönlich – so viel wie der GL-AXT1800, aber mit 2,5G-Port.
+- **Der Preis ist der niedrigste.** $250 mit 2 Jahren Dienst im Tarif Persönlich – der günstigste der vier, $50 weniger als der GL-AXT1800, und trotzdem mit 2,5G-Port.
 - **Ihn kennen wir am besten.** Unser eigenes Testgerät ist dieses Modell, neue Firmware wird zuerst darauf geprüft, und die [Videoanleitung zum Flashen](02-flash-firmware-yourself.md) nutzt es. Haben Sie ein Problem, liegt dasselbe Gerät bei uns zum Vergleich auf dem Tisch.
 
 Wann nicht: Brauchen Sie unterwegs zwei Kabelanschlüsse, nehmen Sie den GL-AXT1800; für Geräte mit Wi‑Fi 7 den GL-MT3600BE; bei großer Wohnung, vielen Geräten oder Breitband über einem Gigabit gleich den GL-MT6000.
