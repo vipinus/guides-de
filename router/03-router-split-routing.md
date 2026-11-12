@@ -41,7 +41,7 @@ Die Richtung für den Zugriff auf China aus dem Ausland bleibt unverändert.
 - **Drucker oder NAS sind nach dem Verbinden nicht erreichbar**: Dann werden auch lokale Netzadressen nach draußen geschickt. Prüfen Sie, ob die Split-Routing-Regeln private Bereiche wie 192.168.x.x ausnehmen.
 - **Die Leistung des Routers** setzt die Obergrenze. Der Prozessor eines alten Routers ist mit verschlüsseltem Datenverkehr voll ausgelastet, was sich darin zeigt, dass der ganze Haushalt langsamer wird. Dann liegt es nicht an der VPN-Leitung.
 
-## Ein Konto, ein Router
+## Router und Konto verknüpfen
 
 Die meisten Dienste binden den Router (über die MAC-Adresse) an das Konto. Bei uns verknüpfen Sie je nach Tarif 1 bis 6 Router mit einem Konto; ist das Limit erreicht, heben Sie beim Routerwechsel zuerst eine Bindung auf. So bleibt das Konto allein Ihres.
 
