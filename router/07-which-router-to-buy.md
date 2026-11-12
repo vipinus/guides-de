@@ -2,7 +2,7 @@
 
 > Version auf der Website (ausführlicher): https://www.leotun.com/de/guides/router?utm_source=github&utm_content=router-07
 
-Der Router löst das Problem „zu viele Geräte, und auf manchen lässt sich kein Client installieren“: Das VPN wird einmal auf dem Router eingerichtet, und Fernseher, Spielkonsole, smarter Lautsprecher und das Smartphone älterer Angehöriger laufen automatisch darüber, ohne dass etwas installiert werden muss. Sie brauchen nur einen Router, der sich flashen lässt, und zehn Minuten fürs Flashen. **Konten in den Tarifen Persönlich, Familie und Unternehmen können alle einen Router nutzen.**
+Der Router löst das Problem „zu viele Geräte, und auf manchen lässt sich kein Client installieren“: Das VPN wird einmal auf dem Router eingerichtet, und Fernseher, Spielkonsole, smarter Lautsprecher und das Smartphone älterer Angehöriger laufen automatisch darüber, ohne dass etwas installiert werden muss. Sie brauchen nur einen Router, der sich flashen lässt, und zehn Minuten fürs Flashen. **Alle sechs bezahlten Tarife können Router nutzen, je nach Tarif 1 bis 6.**
 
 ## Wann sich ein Router lohnt und wann nicht
 
@@ -26,12 +26,12 @@ Auf beiden Wegen aktualisiert die Firmware ihre Komponenten selbst, neu flashen 
 
 | Modell | Typ | Preis | Inklusive | Was es ist | Am besten für |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Reiserouter | $250 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
-| GL-AXT1800 | Reiserouter | $300 | 2 Jahre Persönlich | Dualband-Wi‑Fi 6, ein Gigabit-WAN- und zwei Gigabit-LAN-Ports, etwa so groß wie der GL-MT3000 | Unterwegs neben dem WLAN zwei Geräte gleichzeitig per Kabel anschließen – etwa Laptop und TV-Box |
-| GL-MT3600BE | Reiserouter | $350 | 2 Jahre Persönlich | Dualband-Wi‑Fi 7 mit zwei 2,5G-Ports, etwa so groß wie der GL-MT3000 | Smartphones und Laptops mit Wi‑Fi 7, dazu schnelleres WLAN in einem Gerät, das sich noch mitnehmen lässt |
-| GL-MT6000 | Desktop | $400 | 2 Jahre Persönlich | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
+| **GL-MT3000** | Reiserouter | $250 | 2 Jahre Basis | Dualband-Wi‑Fi 6 mit 2,5G-Port, etwas größer als eine Handfläche | Hauptrouter für einen kleinen Haushalt – Fernseher, Streamingbox, mehrere Smartphones und Computer – und klein genug für den Rucksack |
+| GL-AXT1800 | Reiserouter | $300 | 2 Jahre Basis | Dualband-Wi‑Fi 6, ein Gigabit-WAN- und zwei Gigabit-LAN-Ports, etwa so groß wie der GL-MT3000 | Unterwegs neben dem WLAN zwei Geräte gleichzeitig per Kabel anschließen – etwa Laptop und TV-Box |
+| GL-MT3600BE | Reiserouter | $350 | 2 Jahre Basis | Dualband-Wi‑Fi 7 mit zwei 2,5G-Ports, etwa so groß wie der GL-MT3000 | Smartphones und Laptops mit Wi‑Fi 7, dazu schnelleres WLAN in einem Gerät, das sich noch mitnehmen lässt |
+| GL-MT6000 | Desktop | $400 | 2 Jahre Basis | Zwei 2,5G-Ports plus vier Gigabit-Ports, externe Antennen, die meiste Rechenleistung | Große Wohnungen, viele Geräte (ein Dutzend oder mehr), Breitband über einem Gigabit, 4K und Konsolenspiele oder ein kleines Büro. Bleibt fest an einem Ort als einziger Router |
 
-Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hälfte, Unternehmen ein Viertel – gleicher Gegenwert. Versand weltweit kostenlos, meist 3–14 Tage. Sechs Monate Garantie, keine Rückerstattung für Router.
+Die inklusiven Monate gelten für den Tarif Basis; Standard erhält 12 Monate, Pro 6, Elite 3, Unternehmen 1 Monat, Ultimate keine zusätzliche Laufzeit – gleicher Gegenwert. Versand weltweit kostenlos, meist 3–14 Tage. Sechs Monate Garantie, keine Rückerstattung für Router.
 
 ### Schnelle Wahl nach Situation
 
@@ -46,7 +46,7 @@ Die inklusiven Monate gelten für den Tarif Persönlich; Familie erhält die Hä
 
 - **Ein Gerät, zwei Rollen.** Stark genug als Hauptrouter für einen kleinen Haushalt, klein genug für die Reise. Als einziges der vier kann er beides.
 - **Er veraltet nicht so schnell.** Wi‑Fi 6 und ein 2,5G-Port lassen gegenüber den meisten Heimanschlüssen Luft nach oben.
-- **Der Preis ist der niedrigste.** $250 mit 2 Jahren Dienst im Tarif Persönlich – der günstigste der vier, $50 weniger als der GL-AXT1800, und trotzdem mit 2,5G-Port.
+- **Der Preis ist der niedrigste.** $250 mit 2 Jahren Dienst im Tarif Basis – der günstigste der vier, $50 weniger als der GL-AXT1800, und trotzdem mit 2,5G-Port.
 - **Ihn kennen wir am besten.** Unser eigenes Testgerät ist dieses Modell, neue Firmware wird zuerst darauf geprüft, und die [Videoanleitung zum Flashen](02-flash-firmware-yourself.md) nutzt es. Haben Sie ein Problem, liegt dasselbe Gerät bei uns zum Vergleich auf dem Tisch.
 
 Wann nicht: Brauchen Sie unterwegs zwei Kabelanschlüsse, nehmen Sie den GL-AXT1800; für Geräte mit Wi‑Fi 7 den GL-MT3600BE; bei großer Wohnung, vielen Geräten oder Breitband über einem Gigabit gleich den GL-MT6000.
@@ -61,11 +61,11 @@ Wann nicht: Brauchen Sie unterwegs zwei Kabelanschlüsse, nehmen Sie den GL-AXT1
 
 ## Häufige Fragen
 
-**Zählt der Router als ein Gerät?** Er belegt einen Platz im Konto (je nach Tarif: Persönlich 2, Familie 4, Unternehmen 8 Geräte gleichzeitig online), die Geräte dahinter werden nicht extra gezählt.
+**Zählt der Router als ein Gerät?** Jeder Router belegt einen Platz im Konto (je nach Tarif: Basis 2, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 Geräte gleichzeitig online), die Geräte dahinter werden nicht extra gezählt.
 
 **Kann ich damit im Ausland Videos aus China sehen?** Ja, wählen Sie als Leitung die Region China. Der Router holt das ganze lokale Netz ins VPN, und IPv6 und DNS der Geräte kommen nicht nach außen, sodass Meldungen über „Urheberrechtsbeschränkungen“ seltener erscheinen als bei einem Smartphone, das sich allein verbindet. Siehe [06](06-unlock-chinese-video-with-router.md).
 
 **Hat die Firmware eine Hintertür?** Sie wird aus OpenWrt kompiliert; hinzugefügt sind nur die Komponente, die sich mit dem VPN verbindet, und die Split-Routing-Regeln. Das VPN protokolliert für die Abrechnung nur Verbindungsdauer und Gesamtdatenvolumen, nicht, was Sie aufrufen.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

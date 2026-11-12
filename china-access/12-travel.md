@@ -29,9 +29,9 @@ SMS-Bestätigungscodes, die nie ankommen, haben nichts mit der Leitung zu tun; d
 
 ## Häufige Fragen
 
-**Die Reise dauert nur ein paar Tage. Muss ich einen ganzen Monat kaufen?** Nein. Laden Sie Punkte auf und zahlen Sie tageweise: Im Tarif Persönlich kostet ein Tag 1 Punkt, etwa 0,36 US-Dollar – ideal für ein paar Tage. Probieren Sie es vorher mit dem 30-minütigen Gratistest aus.
+**Die Reise dauert nur ein paar Tage. Muss ich einen ganzen Monat kaufen?** Nein. Laden Sie Punkte auf und zahlen Sie tageweise: Im Tarif Basis kostet ein Tag 1 Punkt, etwa 0,36 US-Dollar – ideal für ein paar Tage. Probieren Sie es vorher mit dem 30-minütigen Gratistest aus.
 
-**Können Smartphone und Laptop gleichzeitig verbunden sein?** Ja. Je nach Tarif sind mit einem Konto 2 / 4 / 8 Geräte gleichzeitig online (Persönlich / Familie / Unternehmen); der Tarif Persönlich reicht genau für ein Smartphone plus einen Laptop.
+**Können Smartphone und Laptop gleichzeitig verbunden sein?** Ja. Je nach Tarif sind mit einem Konto 2 bis 64 Geräte gleichzeitig online (Basis 2, Standard 4, jeder höhere Tarif doppelt so viele); der Tarif Basis reicht genau für ein Smartphone plus einen Laptop.
 
 **Warum empfehlen Sie für Reisen Cisco statt Hiddify?** In einem fremden Netz ist eingeschränktes UDP die größte Sorge. Cisco läuft über TLS – genau wie der Aufruf einer HTTPS-Website – und kommt fast überall durch; Hiddify ist in Netzen mit vielen Paketverlusten schneller, funktioniert aber nicht, wenn UDP eingeschränkt ist. Am zuverlässigsten ist es, beides zu installieren und zu wechseln, wenn eines nicht geht.
 
@@ -47,4 +47,4 @@ SMS-Bestätigungscodes, die nie ankommen, haben nichts mit der Leitung zu tun; d
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-12)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-12) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-12)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-12) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

@@ -9,7 +9,7 @@ Andere Sprachen: [English](https://github.com/vipinus/guides-en) · [简体中�
 | So erhalten Sie sie | Was Sie bekommen |
 |---|---|
 | Gratistest nach der Registrierung anfordern | 30 Minuten mit allen Funktionen, keine Kreditkarte nötig |
-| Einen Freund einladen, der sich registriert und zum ersten Mal bezahlt | Sie und Ihr Freund erhalten je 15 Punkte (etwa 15 Tage im Tarif Persönlich, der 1 Punkt pro Tag verbraucht), direkt auf Ihr Punktekonto, einmal pro Freund, ohne Begrenzung der Zahl der Freunde |
+| Einen Freund einladen, der sich registriert und zum ersten Mal bezahlt | Sie und Ihr Freund erhalten je 15 Punkte (etwa 15 Tage im Tarif Basis, der 1 Punkt pro Tag verbraucht), direkt auf Ihr Punktekonto, einmal pro Freund, ohne Begrenzung der Zahl der Freunde |
 
 Website: <https://www.leotun.com/de?utm_source=github&utm_content=readme> · Kontakt: <https://www.leotun.com/de/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Klar erklärt: die **Grundlagen** des grenzüberschreitenden Zugriffs, **wie Sie
 | [05 · Riskante VPN-Software erkennen](network/05-risky-vpn-apps.md) |
 | [06 · Warum es manchmal schnell und manchmal langsam ist](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Welche Probleme die Leitung löst – und welche eine andere Lösung brauchen](network/07-when-you-do-not-need-us.md) |
-| [08 · Die drei Tarife: Auswahl, Verlängerung und Bezahlung](network/08-account-tiers-and-payment.md) |
+| [08 · Tarife: Auswahl, Verlängerung und Bezahlung](network/08-account-tiers-and-payment.md) |
 | [09 · Was tun, wenn die Geräteanzahl nicht reicht](network/09-not-enough-devices.md) |
 
 ### [Client-Anleitungen · Installation und Einrichtung](client/)

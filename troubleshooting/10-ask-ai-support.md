@@ -17,7 +17,7 @@ Der KI-Supportassistent „SpongeBob“ (海绵宝宝) antwortet rund um die Uhr
 |---|---|
 | Verbindet nicht | Windows 11, Cisco mit Japan, es dreht sich ewig und meldet schließlich eine Zeitüberschreitung, mit Korea dasselbe, Heimanschluss bei China Unicom |
 | Sehr langsam | iPhone mit Hiddify, Singapur gewählt, Webseiten öffnen sich, aber Videos puffern ständig, besonders auffällig nach 21 Uhr |
-| Wie geht das? | Ich habe gerade den Tarif Familie gekauft und möchte, dass auch der Xiaomi-Fernseher zu Hause ihn nutzen kann. Geht das? |
+| Wie geht das? | Ich habe gerade den Tarif Standard gekauft und möchte, dass auch der Xiaomi-Fernseher zu Hause ihn nutzen kann. Geht das? |
 | Verlängerung, Regionswechsel und Router in einer Nachricht fragen | Eine Sache nach der anderen fragen, die nächste erst, wenn die erste gelöst ist |
 
 ## So antwortet er in den drei Gruppen
@@ -51,4 +51,4 @@ VPN-Verbindungsadressen holen Sie sich von der Website: Nach der Anmeldung klick
 - Der Support schreibt Sie nie privat an, um nach einem Passwort, einem Bestätigungscode oder einer Zahlung zu fragen, und bittet Sie nie von sich aus, Fernsteuerungssoftware zu installieren.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-10)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-10) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-10)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-10) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

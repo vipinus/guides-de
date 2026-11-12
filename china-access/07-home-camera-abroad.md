@@ -24,7 +24,7 @@ Das ist der häufigste und zugleich schwierigste Fall. Der NVR hat keine öffent
 2. Nehmen Sie auch das Smartphone oder den Computer im Ausland in dasselbe private Netzwerk auf.
 3. Ab dann erreicht das Gerät im Ausland den NVR direkt unter seiner Adresse im Heimnetz, als wären Sie zu Hause.
 
-„Privat“ von LeoTun ist genau so ein privates Netzwerk. Auf wie vielen Geräten Sie es mit einem Konto installieren, ist nicht begrenzt; die Zahl gleichzeitig verbundener Geräte richtet sich nach dem Tarif: Persönlich 2 Geräte, Familie 4 Geräte, Unternehmen 8 Geräte. Ein Gerät zu Hause plus einige im Ausland – dafür passt der Tarif Familie genau.
+„Privat“ von LeoTun ist genau so ein privates Netzwerk. Auf wie vielen Geräten Sie es mit einem Konto installieren, ist nicht begrenzt; die Zahl gleichzeitig verbundener Geräte richtet sich nach dem Tarif: Basis 2 Geräte, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 Geräte. Ein Gerät zu Hause plus einige im Ausland – dafür passt der Tarif Standard genau.
 
 ## Fall drei: Die Konten passen nicht zusammen
 
@@ -35,4 +35,4 @@ Ein in China gekauftes Gerät ist an ein chinesisches Konto gebunden, und die Ap
 Das Bild Ihrer Heimkameras sollte nur zwischen Ihren Geräten und Ihrem Zuhause fließen. Das private Netzwerk bevorzugt eine direkte Verbindung von Gerät zu Gerät und leitet nur dann über einen Vermittlungsserver weiter, wenn keine direkte Verbindung zustande kommt; das Bild wird auf keinem Server gespeichert. Bei der Cloud des Herstellers läuft es dagegen über den Hersteller. In keinem Fall sollten Sie „Tunnel-Tools“ unklarer Herkunft nutzen – das hieße, Ihre Heimkameras jemand anderem zu überlassen.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

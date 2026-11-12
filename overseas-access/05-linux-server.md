@@ -34,7 +34,7 @@ Auf diesem Weg gibt es konstruktionsbedingt keine Verbindung, die abreißen kann
 
 ## Gut zu wissen
 
-- Ein Linux-Rechner zählt als ein Gerät und teilt sich das Kontingent gleichzeitig verbundener Geräte mit Ihren anderen Geräten (Persönlich 2 Geräte, Familie 4 Geräte, Unternehmen 8 Geräte); der Web-Proxy aus Weg zwei wird pro Verbindung gezählt und ist ebenfalls enthalten.
+- Ein Linux-Rechner zählt als ein Gerät und teilt sich das Kontingent gleichzeitig verbundener Geräte mit Ihren anderen Geräten (Basis 2 Geräte, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 Geräte); der Web-Proxy aus Weg zwei wird pro Verbindung gezählt und ist ebenfalls enthalten.
 - Konfigurationsdatei und Passwortdatei sind so viel wert wie Ihr Konto; committen Sie sie nicht in ein Git-Repository und packen Sie sie nicht in ein Image.
 - Ändern Sie Ihr Passwort, funktioniert die alte Konfiguration sofort nicht mehr – das ist der vorgesehene Sperrmechanismus. Es genügt, die Passwortdatei zu aktualisieren.
 - Betreiben Sie die Leitung auf einem Cloud-Server, halten Sie sich an die Nutzungsbedingungen des Anbieters; die Leitung protokolliert nur Verbindungsdauer und Gesamtdatenvolumen.
@@ -59,4 +59,4 @@ Auf diesem Weg gibt es konstruktionsbedingt keine Verbindung, die abreißen kann
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=overseas-access-05)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=overseas-access-05) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – dauerhaft gültig
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=overseas-access-05)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=overseas-access-05) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – dauerhaft gültig

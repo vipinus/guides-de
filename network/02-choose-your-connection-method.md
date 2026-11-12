@@ -9,7 +9,7 @@ Ein LeoTun-Konto bietet sechs Verbindungsarten: Privat (Tailscale), Cisco (AnyCo
 - Ein Firmenrechner ohne Administratorrechte: Web-Proxy. Sie installieren nur eine Browser-Erweiterung, brauchen keine Administratorrechte und rühren die Netzwerkeinstellungen der Firma nicht an.
 - iPhone, ältere Geräte: Cisco. Es verbindet über das im System eingebaute VPN oder den offiziellen Client, ohne Konfigurationsimport, und die Kompatibilität ist am besten.
 - NAS (Synology, QNAP), Linux-Server: OpenVPN. Eine .ovpn-Datei importieren, und es verbindet sich beim Hochfahren automatisch; die meisten dieser Geräte haben einen Client eingebaut.
-- Fernseher, Set-Top-Boxen, Spielkonsolen, das Smartphone älterer Angehöriger: Router. Alles, was im WLAN ist, läuft über die Leitung, und auf dem Gerät muss nichts installiert werden. Alle drei Tarife können ihn nutzen.
+- Fernseher, Set-Top-Boxen, Spielkonsolen, das Smartphone älterer Angehöriger: Router. Alles, was im WLAN ist, läuft über die Leitung, und auf dem Gerät muss nichts installiert werden. Alle sechs bezahlten Tarife können ihn nutzen.
 - Viele Geräte einer ganzen Familie oder eines Büros: Router, einmal eingerichtet, gilt er für alle; möchten Sie von unterwegs auch das NAS zu Hause erreichen, nehmen Sie zusätzlich Privat.
 
 ## Nach Netzumgebung: in welchem Netz Sie sind
@@ -62,7 +62,7 @@ Split-Routing brauchen nur Nutzer in Festlandchina; Nutzer im Ausland nehmen den
 
 **Welche für Spiele und Sprachanrufe?** Hiddify, Privat oder Router, mit der Region mit der niedrigsten Latenz. Der Web-Proxy kümmert sich nur um den Browser; Spiele und Anruf-Apps laufen nicht darüber.
 
-**Kann ich die sechs Verbindungsarten gleichzeitig nutzen?** Auf verschiedenen Geräten ja; alle Verbindungsarten eines Kontos teilen sich das Kontingent gleichzeitig verbundener Geräte (Persönlich 2 Geräte, Familie 4 Geräte, Unternehmen 8 Geräte). Betreiben Sie auf demselben Gerät nicht zwei Verbindungsarten für das ganze Gerät gleichzeitig (etwa Privat und Cisco), denn sie streiten sich um die Netzwerkeinstellungen.
+**Kann ich die sechs Verbindungsarten gleichzeitig nutzen?** Auf verschiedenen Geräten ja; alle Verbindungsarten eines Kontos teilen sich das Kontingent gleichzeitig verbundener Geräte (Basis 2 Geräte, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 Geräte). Betreiben Sie auf demselben Gerät nicht zwei Verbindungsarten für das ganze Gerät gleichzeitig (etwa Privat und Cisco), denn sie streiten sich um die Netzwerkeinstellungen.
 
 **Muss ich mich zwischen Router und Client entscheiden?** Nein. Nutzen Sie zu Hause den Router und schalten Sie unterwegs den Client auf dem Smartphone ein; beide zählen jeweils als ein Gerät.
 
@@ -78,4 +78,4 @@ Split-Routing brauchen nur Nutzer in Festlandchina; Nutzer im Ausland nehmen den
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-02)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-02) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=network-02)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=network-02) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

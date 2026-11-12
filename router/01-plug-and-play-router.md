@@ -4,7 +4,7 @@
 
 1. **Strom und Netzwerkkabel anschließen**: Verbinden Sie den WAN-Port des Routers mit Ihrem vorhandenen Modem oder vorgeschalteten Router und warten Sie, bis die Kontrollleuchte ruhig leuchtet – etwa eine Minute.
 2. **Mit dem WLAN verbinden**: Name und Passwort des Standard-WLANs stehen auf der beiliegenden Karte (ab Werk ist beides der Domainname der Website). Öffnen Sie nach dem Verbinden einen Browser und rufen Sie die Verwaltungsadresse `http://192.168.11.1` auf.
-3. **Mit dem Konto anmelden**: Geben Sie auf der Verwaltungsseite E-Mail-Adresse und Passwort Ihres Kontos ein und speichern Sie (Konten in den Tarifen Persönlich, Familie und Unternehmen können alle einen Router nutzen). Ab dann läuft jedes Gerät, das mit diesem WLAN verbunden ist, automatisch über das VPN.
+3. **Mit dem Konto anmelden**: Geben Sie auf der Verwaltungsseite E-Mail-Adresse und Passwort Ihres Kontos ein und speichern Sie (alle sechs bezahlten Tarife können einen Router nutzen). Ab dann läuft jedes Gerät, das mit diesem WLAN verbunden ist, automatisch über das VPN.
 
 ## Standardpasswörter ändern
 
@@ -17,7 +17,7 @@ Standard ist Split-Routing: Chinesische Domains auf der Liste laufen über das V
 ## Häufige Fragen
 
 - **Die Kontrollleuchte ist normal, aber verbundene Geräte haben kein Internet**: Prüfen Sie den Kontostatus auf der Verwaltungsseite; ein abgelaufenes Konto oder ein falsches Passwort wird dort angezeigt.
-- **Sie wollen auf einen anderen Router wechseln**: Heben Sie zuerst auf der Website die Verknüpfung des alten auf; siehe [MAC-Bindung und Routerwechsel](05-mac-binding-and-replacing.md).
+- **Sie wollen auf einen anderen Router wechseln**: Ist das Router-Limit Ihres Tarifs nicht erreicht, verbindet der neue Router direkt; ist es erreicht, heben Sie zuerst auf der Website die Verknüpfung des alten auf; siehe [MAC-Bindung und Routerwechsel](05-mac-binding-and-replacing.md).
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-01)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-01) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-01)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-01) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

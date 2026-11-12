@@ -13,7 +13,7 @@ Klar erklärt: die **Grundlagen** des grenzüberschreitenden Zugriffs, **wie Sie
 | [05 · Riskante VPN-Software erkennen](05-risky-vpn-apps.md) |
 | [06 · Warum es manchmal schnell und manchmal langsam ist](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Welche Probleme die Leitung löst – und welche eine andere Lösung brauchen](07-when-you-do-not-need-us.md) |
-| [08 · Die drei Tarife: Auswahl, Verlängerung und Bezahlung](08-account-tiers-and-payment.md) |
+| [08 · Tarife: Auswahl, Verlängerung und Bezahlung](08-account-tiers-and-payment.md) |
 | [09 · Was tun, wenn die Geräteanzahl nicht reicht](09-not-enough-devices.md) |
 
 [← Zurück zur Übersicht](../README.md)

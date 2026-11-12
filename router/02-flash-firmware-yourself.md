@@ -9,7 +9,7 @@ Diese Anleitung richtet sich an alle, die bereits einen Router besitzen, dessen 
 ## Bevor Sie anfangen
 
 - **Prüfen Sie, ob Ihr Modell unterstützt wird.** Melden Sie sich an, öffnen Sie den Bereich **Router** und suchen Sie Ihr Modell nach Hersteller. Auch die Hardware-Revision hinter dem Modellnamen (v1, v2 usw.) muss übereinstimmen.
-- **Ihr Konto muss aktiv sein.** Alle Tarife – Persönlich, Familie und Unternehmen – können einen Router nutzen.
+- **Ihr Konto muss aktiv sein.** Alle sechs bezahlten Tarife können einen Router nutzen (der Gratistest nicht).
 - **Legen Sie ein Netzwerkkabel bereit.** Der WAN-Port des Routers kommt an Ihr Modem bzw. den vorgeschalteten Router. Beim Flashen verbinden Sie am besten auch den Computer per Kabel mit dem Router; das ist zuverlässiger als WLAN.
 - **Sichern Sie die Original-Firmware.** Laden Sie die Original-Firmware Ihres Modells von der Herstellerseite herunter, falls Sie einmal zurückwechseln wollen.
 
@@ -84,10 +84,10 @@ Ob die Verbindung steht, prüfen Sie, indem Sie auf einem Gerät am Router eine 
 
 ## Einen alten Router durch einen neuen ersetzen
 
-Ein Konto ist immer nur an einen Router gleichzeitig gebunden. Wurde Ihr Konto schon an einem anderen Router genutzt:
+Mit einem Konto können Sie je nach Tarif 1 bis 6 Router verknüpfen (Basis 1, jeder höhere Tarif einen mehr). Ist das Limit nicht erreicht, **verbindet sich** ein neuer Router **automatisch** und wird verknüpft, ohne dass Sie etwas aufheben müssen. Ist es erreicht und Sie wollen einen neuen Router nutzen:
 
-1. Melden Sie sich an, öffnen Sie den Bereich **Router**; unter der Überschrift „Firmware bauen“ sehen Sie das Modell mit dem Status **Verknüpft** und daneben **Verknüpfung aufheben**.
-2. Klicken Sie auf Verknüpfung aufheben. Das geht auch, wenn der alte Router defekt oder nicht zur Hand ist.
+1. Melden Sie sich an und öffnen Sie den Bereich **Router**; unter der Überschrift „Firmware bauen“ steht die Liste der verknüpften Router (mit dem Zähler „x / y Router“), je Router eine Zeile mit Modell und MAC-Endung.
+2. Klicken Sie am Ende der Zeile des nicht mehr genutzten Routers auf **Verknüpfung aufheben**. Das geht auch, wenn der alte Router defekt oder nicht zur Hand ist.
 3. Am neuen Router ist nichts zu tun: Er **verbindet sich automatisch** und wird mit Ihrem Konto verknüpft.
 
 Haben Sie den neuen Router schon vor dem Aufheben geflasht, ist das auch kein Problem. Er wartet und verbindet sich von selbst, sobald Sie die Verknüpfung aufheben.
@@ -104,7 +104,7 @@ Klappt es nach etwa zehn Minuten immer noch nicht, gehen Sie diese Punkte der Re
 
 1. **Funktioniert der Internetanschluss selbst?** Öffnen Sie auf einem Gerät am Router eine beliebige normale Website. Geht das nicht, liegt es an Kabel oder Modem: Prüfen Sie, ob das Kabel im WAN-Port richtig steckt.
 2. **Ist das Konto abgelaufen?** Melden Sie sich auf der Website an und prüfen Sie das Ablaufdatum. Nach einer Verlängerung ein paar Minuten warten.
-3. **Ist das Konto noch mit dem alten Router verknüpft?** Sehen Sie im Bereich Router nach, welches Modell verknüpft ist. Ist es nicht dieser Router, klicken Sie auf Verknüpfung aufheben.
+3. **Ist das Router-Limit des Kontos erreicht?** Sehen Sie im Bereich Router auf den Zähler „x / y Router“. Ist er voll, klicken Sie in der Zeile eines nicht mehr genutzten Routers auf Verknüpfung aufheben. Meldet die Anmeldeseite des Routers, Benutzername oder Passwort seien falsch, obwohl das Passwort stimmt, ist meist das Limit erreicht.
 4. **Router einmal neu starten.** Stecker ziehen, zehn Sekunden warten, wieder einstecken und zwei bis drei Minuten Zeit geben.
 5. **Manuell anmelden.** Öffnen Sie `http://192.168.11.1` und melden Sie sich mit dem Benutzernamen `root` und dem Passwort `www.anyfq.com` am Router an. Gehen Sie dann zu **Services** → **VPN** (Dienste → VPN), geben Sie die E-Mail-Adresse und das Passwort Ihres Kontos ein und speichern Sie.
 
@@ -124,11 +124,11 @@ Die meisten Router haben einen Wiederherstellungsmodus: Stromstecker ziehen, Res
 
 **Kann ich zur Original-Firmware zurück?** Ja. Laden Sie die Original-Firmware über den Wiederherstellungsmodus hoch, wie unter „Wenn beim Flashen etwas schiefgeht“ beschrieben.
 
-**Kann ich eine Firmware-Datei für zwei Router verwenden?** Nein. Die Firmware wird pro Konto gebaut, und ein Konto ist immer nur an einen Router gleichzeitig gebunden.
+**Kann ich mit einem Konto zwei Router nutzen?** Ab Standard ja (Basis erlaubt nur 1 Router): Bauen Sie im Bereich Router eine Firmware für das Modell des zweiten Routers und flashen Sie sie; bei der ersten Verbindung wird er automatisch verknüpft.
 
 **Brauche ich einen neuen Build, wenn ich das Konto wechsle?** Nein. Melden Sie sich auf der Verwaltungsseite ab und mit dem neuen Konto an.
 
 **Muss ich für künftige Updates neu flashen?** Normale Updates holt sich der Router selbst; Sie müssen nichts tun. Nur bei einer neuen Hauptversion ist ein neuer Build und einmaliges Flashen der sysupgrade-Datei nötig – die Website kündigt das dann an.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-02)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-02) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – dauerhaft gültig
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-02)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-02) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – dauerhaft gültig

@@ -29,7 +29,7 @@ Der Bereich Privat nutzt Tailscale (ein Vernetzungswerkzeug auf Basis von WireGu
 ## Ablauf und Geräteanzahl
 
 - Die Anmeldung eines Geräts gilt so lange wie das Konto und endet wenige Minuten nach dessen Ablauf; nach der Verlängerung melden Sie sich einfach noch einmal an. Eine Neuinstallation ist nicht nötig.
-- Wie viele Geräte gleichzeitig online sein dürfen, hängt vom Tarif ab (Persönlich 2, Familie 4, Unternehmen 8); das Kontingent teilen sich alle Verbindungsarten. Überschreiten Sie das Limit Ihres Tarifs, können Sie den Kontotyp vorübergehend hochstufen (die Restlaufzeit wird wertgleich nach Preis umgerechnet) und danach wieder zurückwechseln.
+- Wie viele Geräte gleichzeitig online sein dürfen, hängt vom Tarif ab (Basis 2, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64); das Kontingent teilen sich alle Verbindungsarten. Überschreiten Sie das Limit Ihres Tarifs, können Sie den Kontotyp vorübergehend hochstufen (die Restlaufzeit wird wertgleich nach Preis umgerechnet) und danach wieder zurückwechseln.
 
 ## Zwei Fälle, in denen eine andere Verbindungsart besser passt
 
@@ -37,4 +37,4 @@ Der Bereich Privat nutzt Tailscale (ein Vernetzungswerkzeug auf Basis von WireGu
 - In einem Campus- oder Firmennetz, das UDP einschränkt: WireGuard läuft über UDP und kann dann nur über Relays gehen, was sehr langsam ist; wechseln Sie zu AnyConnect.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-05)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-05) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-05)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-05) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

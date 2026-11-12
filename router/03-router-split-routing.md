@@ -43,7 +43,7 @@ Die Richtung für den Zugriff auf China aus dem Ausland bleibt unverändert.
 
 ## Ein Konto, ein Router
 
-Die meisten Dienste binden den Router (über die MAC-Adresse) an das Konto. Ein Konto ist an einen Router gebunden, und beim Routerwechsel heben Sie zuerst die Bindung auf. So bleibt das Konto allein Ihres.
+Die meisten Dienste binden den Router (über die MAC-Adresse) an das Konto. Bei uns verknüpfen Sie je nach Tarif 1 bis 6 Router mit einem Konto; ist das Limit erreicht, heben Sie beim Routerwechsel zuerst eine Bindung auf. So bleibt das Konto allein Ihres.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-03)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-03) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-03)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-03) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

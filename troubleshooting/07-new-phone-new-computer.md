@@ -30,7 +30,7 @@ Die Konfigurationsdatei liegt meist auf dem Systemlaufwerk und geht bei der Neui
 
 ### Neuer Router
 
-Ein Router ist anders als andere Geräte: Zwischen ihm und dem Konto besteht eine **Bindung**. Wollen Sie auf einen neuen Router wechseln, heben Sie zuerst die Bindung des alten auf. Diesen Schritt erledigen Sie selbst auf der Website: Melden Sie sich an, öffnen Sie den Bereich Router und klicken Sie in der Zeile „Verknüpft · Modell · Verknüpfung aufheben“ auf „Verknüpfung aufheben“; der neue Router verbindet sich danach von selbst. Einzelheiten stehen im entsprechenden Artikel der Router-Anleitungen.
+Ein Router ist anders als andere Geräte: Zwischen ihm und dem Konto besteht eine **Bindung**. Je nach Tarif lassen sich 1 bis 6 Router mit einem Konto verknüpfen; ist das Limit nicht erreicht, verbindet ein neuer Router direkt. Ist es erreicht, heben Sie zuerst die Bindung des alten auf. Diesen Schritt erledigen Sie selbst auf der Website: Melden Sie sich an, öffnen Sie den Bereich Router und klicken Sie in der Liste unter „Firmware bauen“ (Zähler „x / y Router“) am Ende der Zeile des alten Routers auf „Verknüpfung aufheben“; der neue Router verbindet sich danach von selbst. Einzelheiten stehen im entsprechenden Artikel der Router-Anleitungen.
 
 ## Ein sehr verbreiteter Irrtum
 
@@ -45,7 +45,7 @@ Deshalb gilt immer: **Holen Sie sich auf der Website eine frische Kopie.** Das i
 
 ## Was tun, wenn alle Plätze belegt sind
 
-Wie viele Geräte mit einem Konto gleichzeitig online sein können, hängt vom Tarif ab: 2 bei Persönlich, 4 bei Familie, 8 bei Unternehmen. Ist das alte Gerät beim Wechsel noch verbunden, kann die Meldung kommen, das Limit sei erreicht. Drei Möglichkeiten:
+Wie viele Geräte mit einem Konto gleichzeitig online sein können, hängt vom Tarif ab: 2 bei Basis, 4 bei Standard, 8 bei Pro, 16 bei Elite, 32 bei Unternehmen, 64 bei Ultimate. Ist das alte Gerät beim Wechsel noch verbunden, kann die Meldung kommen, das Limit sei erreicht. Drei Möglichkeiten:
 
 - Melden Sie sich auf dem alten Gerät ab oder schließen Sie dort den Client
 - Warten Sie eine Weile – ungenutzte Verbindungen werden automatisch freigegeben
@@ -54,4 +54,4 @@ Wie viele Geräte mit einem Konto gleichzeitig online sein können, hängt vom T
 Auf der Website sehen Sie, wie viele Geräte gerade online sind und welcher Art jedes ist – so finden Sie heraus, ob Sie vergessen haben, eines auszuschalten.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-07)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-07) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

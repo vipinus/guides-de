@@ -11,7 +11,7 @@ Nachdem Sie unsere Firmware geflasht oder ein vorinstalliertes Gerät gekauft ha
 | Updates von Komponenten und Split-Routing-Liste | Prüft beim Start und lädt Updates herunter, die **beim nächsten Start wirksam werden**; die Liste gesperrter Websites für den Zugriff auf ausländische Dienste aus China aktualisiert sich außerdem täglich automatisch | Nichts; geänderte Leitungsadressen und neu in die Liste aufgenommene Websites werden automatisch übernommen |
 | WLAN-Ländercode | Erkennt nach dem ersten Onlinegang das Land, in dem er steht, und stellt Sendeleistung und Kanäle automatisch ein | Direkt nach dem Flashen **zuerst ein Netzwerkkabel einstecken**, damit er einmal online geht; ein schwächeres Signal davor ist normal |
 | Verhalten bei Ablauf | Läuft das Konto ab, geht nichts mehr über das VPN; das lokale Netz funktioniert normal weiter | Nach der Verlängerung erholt er sich automatisch, ohne erneute Anmeldung |
-| Router-Bindung | Bei der ersten Anmeldung wird dieser Router beim Konto hinterlegt | Vor einem Routerwechsel auf der Website die Verknüpfung aufheben |
+| Router-Bindung | Bei der ersten Anmeldung wird dieser Router beim Konto hinterlegt | Ist das Router-Limit erreicht, vor einem Routerwechsel auf der Website eine Verknüpfung aufheben |
 
 Nur ein Hauptversions-Upgrade der gesamten Firmware erfordert das Flashen der sysupgrade-Datei. Das kommt nur ein paar Mal im Jahr vor, und die Website informiert Sie darüber.
 
@@ -39,11 +39,11 @@ Nur ein Hauptversions-Upgrade der gesamten Firmware erfordert das Flashen der sy
 
 ## Häufige Fragen
 
-**Kann ich im Tarif Persönlich einen Router nutzen?** Ja. Persönlich, Familie und Unternehmen unterstützen alle einen Router, ein Tarifwechsel ist nicht nötig.
+**Kann ich im Tarif Basis einen Router nutzen?** Ja. Alle sechs bezahlten Tarife unterstützen Router, ungedrosselt, ein Tarifwechsel ist nicht nötig; Basis erlaubt 1 Router, für mehr stufen Sie hoch.
 
 **Wie viele Geräteplätze belegt der Router?** Einen; die Geräte dahinter werden nicht mitgezählt.
 
 **Hat die Firmware eine Hintertür?** Sie wird aus OpenWrt kompiliert; hinzugefügt sind nur die Komponente, die sich mit dem VPN verbindet, und die Split-Routing-Regeln. Das VPN protokolliert für die Abrechnung nur Verbindungsdauer und Gesamtdatenvolumen.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – dauerhaft gültig
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=router-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=router-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – dauerhaft gültig

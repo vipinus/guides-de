@@ -48,7 +48,7 @@ Verbinden Sie sich aus China, wechseln die Adressen für AnyConnect und Hiddify 
 
 **Wirkt sich ein VPN nach China auf mein Netzwerkkonto an der Hochschule aus?** Nein. Die Leitung schickt nur Ihren Datenverkehr zu einem Ausgang in China; das Campusnetz sieht eine einzige verschlüsselte Verbindung. Die Nutzungsregeln der meisten Hochschulen verbieten nur urheberrechtsverletzende Downloads und Angriffe; der private Zugriff auf Dienste im eigenen Heimatland gehört nicht dazu. Sind Sie unsicher, werfen Sie einen Blick in die Nutzungsordnung Ihrer Hochschule.
 
-**Kann ich ein Konto mit meinem Mitbewohner teilen?** Je nach Tarif können bei einem Konto 2 (Persönlich), 4 (Familie) oder 8 (Unternehmen) Geräte gleichzeitig online sein; das Teilen mit Familie oder Mitbewohnern ist nach den Regeln erlaubt. Für Dinge wie Onlinebanking ist es aber sicherer, wenn jeder sein eigenes Konto nutzt – sonst wechseln mehrere Personen auf derselben Leitung ständig hin und her und lösen die Risikokontrolle aus.
+**Kann ich ein Konto mit meinem Mitbewohner teilen?** Je nach Tarif können bei einem Konto 2 (Basis), 4 (Standard), 8 (Pro) oder mehr (bis 64 bei Ultimate) Geräte gleichzeitig online sein; das Teilen mit Familie oder Mitbewohnern ist nach den Regeln erlaubt. Für Dinge wie Onlinebanking ist es aber sicherer, wenn jeder sein eigenes Konto nutzt – sonst wechseln mehrere Personen auf derselben Leitung ständig hin und her und lösen die Risikokontrolle aus.
 
 **Warum ist Hiddify im Wohnheim langsam, AnyConnect aber normal?** Höchstwahrscheinlich schränkt das Campusnetz UDP ein. Das hysteria2-Protokoll von Hiddify basiert auf UDP und wird bei Drosselung langsam oder bricht ab; AnyConnect läuft über TLS, genau wie der Aufruf einer HTTPS-Website, und ist nicht betroffen.
 
@@ -66,4 +66,4 @@ Verbinden Sie sich aus China, wechseln die Adressen für AnyConnect und Hiddify 
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-10)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-10) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=china-access-10)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=china-access-10) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

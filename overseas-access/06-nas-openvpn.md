@@ -31,7 +31,7 @@ Von außen aufs NAS zugreifen (unterwegs Freigaben öffnen, Kameras ansehen): Da
 
 - Die Konfigurationsdatei enthält Ihr Konto, und das Passwortfeld auf dem NAS funktioniert nach einer Passwortänderung nicht mehr: Laden Sie die .ovpn-Datei neu herunter und ersetzen Sie sie, oder ändern Sie im VPN-Profil nur das Passwort.
 - Läuft das Konto ab, wird das NAS getrennt; nach der Verlängerung verbindet es sich automatisch wieder, die Konfiguration müssen Sie nicht ersetzen.
-- Das NAS zählt als ein Gerät und teilt sich das Kontingent gleichzeitig verbundener Geräte mit Ihren anderen Geräten (Persönlich 2 Geräte, Familie 4 Geräte, Unternehmen 8 Geräte).
+- Das NAS zählt als ein Gerät und teilt sich das Kontingent gleichzeitig verbundener Geräte mit Ihren anderen Geräten (Basis 2 Geräte, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 Geräte).
 - Die Leitung läuft über UDP; ein NAS am Heimanschluss stößt so gut wie nie auf UDP-Beschränkungen.
 
 ## Häufige Fragen
@@ -54,4 +54,4 @@ Von außen aufs NAS zugreifen (unterwegs Freigaben öffnen, Kameras ansehen): Da
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=overseas-access-06)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=overseas-access-06) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=overseas-access-06)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=overseas-access-06) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

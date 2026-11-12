@@ -11,7 +11,7 @@ Wer viele Geräte hat, ärgert sich vor allem darüber, jedes einzeln einzuricht
 
 ## Wie gleichzeitig verbundene Geräte gezählt werden
 
-Ein Konto lässt sich auf beliebig vielen Geräten installieren; begrenzt ist nur, wie viele gleichzeitig online sind: Persönlich 2, Familie 4, Unternehmen 8 – ein gemeinsames Kontingent mit Cisco, Hiddify und den anderen Verbindungsarten. Überschreiten Sie das Limit Ihres Tarifs, können Sie den Kontotyp vorübergehend hochstufen (die Restlaufzeit wird wertgleich nach Preis umgerechnet) und danach wieder zurückwechseln.
+Ein Konto lässt sich auf beliebig vielen Geräten installieren; begrenzt ist nur, wie viele gleichzeitig online sind: Basis 2, Standard 4, Pro 8, Elite 16, Unternehmen 32, Ultimate 64 – ein gemeinsames Kontingent mit Cisco, Hiddify und den anderen Verbindungsarten. Überschreiten Sie das Limit Ihres Tarifs, können Sie den Kontotyp vorübergehend hochstufen (die Restlaufzeit wird wertgleich nach Preis umgerechnet) und danach wieder zurückwechseln.
 
 Ein Router zählt als ein Gerät, die Geräte dahinter werden nicht mitgezählt. Ein Router oder NAS zu Hause plus Smartphone und Laptop für unterwegs reicht meist aus.
 
@@ -49,4 +49,4 @@ Ein Router zählt als ein Gerät, die Geräte dahinter werden nicht mitgezählt.
 Website-Version dieses Artikels (auch auf Deutsch): https://www.leotun.com/de/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – ein dauerhaftes Angebot
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=client-08)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=client-08) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – ein dauerhaftes Angebot

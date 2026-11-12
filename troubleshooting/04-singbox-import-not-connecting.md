@@ -16,7 +16,7 @@ Suchen Sie Ihren Fehler in der Tabelle. Wie der Import überhaupt funktioniert, 
 
 ## Muss ich nach Verlängerung, Tarifwechsel oder Passwortänderung neu importieren?
 
-- **Verlängerung oder Tarifwechsel (Persönlich / Familie / Unternehmen)**: Nein. Die bestehende Konfiguration funktioniert weiter.
+- **Verlängerung oder Tarifwechsel**: Nein. Die bestehende Konfiguration funktioniert weiter.
 - **Passwortänderung**: Die alte Konfiguration funktioniert sofort nicht mehr; scannen Sie den QR-Code erneut. Haben Sie Ihr Smartphone verloren oder ist der Link in falsche Hände geraten, sperren Sie den Zugang genau so.
 - **Konto abgelaufen**: Die Konfiguration liefert 401. Nach der Verlängerung brauchen Sie keine neue Konfiguration; einfach neu verbinden.
 - **Vor September 2026 importiert**: Die Regel, die IPv6 ablehnt, fehlt; beim Ansehen chinesischer Videos aus dem Ausland erscheint deshalb ein Hinweis auf Urheberrechtsbeschränkungen. Löschen und neu importieren; siehe [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Suchen Sie Ihren Fehler in der Tabelle. Wie der Import überhaupt funktioniert, 
 Nennen Sie dem Support drei Dinge: Name und Version des Clients, die Region und den genauen Fehlertext oder einen Screenshot.
 
 ---
-Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Persönlich) – dauerhaft gültig
+Zusammengestellt vom [LeoTun](https://www.leotun.com/de?utm_source=github&utm_content=troubleshooting-04)-Team · Fragen? Siehe die [Kontaktseite](https://www.leotun.com/de/contact?utm_source=github&utm_content=troubleshooting-04) (Gruppen, E-Mail und Support sind dort aufgeführt) · Registrieren Sie sich für einen 30-minütigen Gratistest; laden Sie einen Freund ein, der bezahlt, erhalten Sie beide je 15 Punkte (etwa 15 Tage im Tarif Basis) – dauerhaft gültig
